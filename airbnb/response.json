@@ -1,0 +1,3619 @@
+{
+    "error": false,
+    "headers": {
+        "response_time": 2291,
+        "response_timestamp": "2023-06-07T17:33:11.658Z",
+        "response_id": 24829776
+    },
+    "results": [
+        {
+            "id": "38445579",
+            "url": "https://www.airbnb.com/rooms/38445579",
+            "deeplink": "https://www.airbnb.com/rooms/38445579?check_in=2023-07-01&check_out=2023-07-08&adults=1&children=0&infants=0&pets=0",
+            "position": 1,
+            "name": "Bright & cozy apartment near Heidelberg",
+            "bathrooms": 1,
+            "bedrooms": 0,
+            "beds": 1,
+            "city": "Dossenheim",
+            "images": [
+                "https://a0.muscache.com/im/pictures/481005f7-6bf1-4bc5-ad45-f664fbf955ea.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/0ebe95a5-181c-4eb6-9bcd-d86b96712c8a.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/c0f6cb4b-6813-4670-9e7b-a43de81db559.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/135a1374-118e-46dc-804b-986924c5e4dd.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/78c88d50-95cb-422e-a235-bdf86ffaca89.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/69bafb4b-ba6f-49f5-92b1-4bee85936891.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/e8a2e170-8c47-4b48-a0a6-eec52586e09f.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/35a75cb6-4203-4d35-b277-47161ccb85d4.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/1483cbc9-1387-4014-bb3c-f70f79ca4ce5.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/8c0024fe-e36a-47a8-9e45-1f8e2e2fa03e.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/e8b3cf0a-b4fa-45dc-b9e1-98b6df08937f.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/34d775d6-29f9-4124-b75c-0215271260ec.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/bdc3df59-1a0e-4e2a-b528-00ad0ad8e174.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/50efda0a-fcbc-452f-9cd0-2296836dc1d6.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/2de05f56-5df4-4c81-ac70-8346de2c2439.jpg?im_w=720"
+            ],
+            "hostThumbnail": "https://a0.muscache.com/im/pictures/user/f2a82f5b-4590-482c-a435-edb0672b8583.jpg?aki_policy=profile_x_medium",
+            "isSuperhost": true,
+            "rareFind": false,
+            "lat": 49.45114,
+            "lng": 8.67573,
+            "persons": 2,
+            "reviewsCount": 60,
+            "rating": 4.88,
+            "type": "Entire rental unit",
+            "userId": 293072889,
+            "address": "Dossenheim, Baden-W\u00fcrttemberg, Germany",
+            "amenityIds": [
+                96,
+                1,
+                33,
+                35,
+                4,
+                100,
+                37,
+                101,
+                39,
+                8,
+                40,
+                9,
+                42,
+                44,
+                45,
+                77,
+                46,
+                23,
+                57,
+                90,
+                91,
+                93,
+                30
+            ],
+            "previewAmenities": [
+                "Wifi",
+                "Free parking",
+                "Kitchen"
+            ],
+            "cancelPolicy": "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
+            "price": {
+                "rate": 56,
+                "currency": "EUR",
+                "total": 392,
+                "priceItems": [
+                    {
+                        "amount": 329
+                    },
+                    {
+                        "amount": 23
+                    },
+                    {
+                        "amount": 30
+                    },
+                    {
+                        "amount": 56
+                    }
+                ]
+            }
+        },
+        {
+            "id": "896248808435584348",
+            "url": "https://www.airbnb.com/rooms/896248808435584348",
+            "deeplink": "https://www.airbnb.com/rooms/896248808435584348?check_in=2023-07-01&check_out=2023-07-08&adults=1&children=0&infants=0&pets=0",
+            "position": 2,
+            "name": "Sehr gem\u00fctliche Ferienwohnung",
+            "bathrooms": 1,
+            "bedrooms": 1,
+            "beds": 1,
+            "city": "Dossenheim",
+            "images": [
+                "https://a0.muscache.com/im/pictures/miso/Hosting-896248808435584348/original/410fb975-e258-43a6-96ec-075d5b9cb17d.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-896248808435584348/original/50df67af-4a24-4732-88c2-bba08c406ebc.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-896248808435584348/original/c77bba3e-b5d3-4597-9246-e77c3027a164.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-896248808435584348/original/a67bcc07-c76a-4d10-b3a6-6d65949c76eb.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-896248808435584348/original/f05e7d49-facd-4a2a-9c49-9fe237118b27.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-896248808435584348/original/162751c4-a2b1-4556-bf35-530fa0b722d2.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-896248808435584348/original/0e91868c-6ac3-4c9a-a466-6e32934307a0.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-896248808435584348/original/4123e730-b0fd-4f86-a32f-91a93d1290e1.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-896248808435584348/original/9c202615-e545-4abd-b7b3-eac8817c7d97.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-896248808435584348/original/7b786a20-6d9f-4ca7-be69-b65e0bcefc0b.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-896248808435584348/original/265e5153-c080-47a6-b094-a86edf933fe2.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-896248808435584348/original/d1a7d9bd-22e1-4b22-ac53-1bfb1ae6c615.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-896248808435584348/original/674ea83f-49a1-49df-9a57-f8467e8e04a3.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-896248808435584348/original/edf7b665-f224-479f-8e14-6727e1daf4d5.jpeg?im_w=720"
+            ],
+            "hostThumbnail": "https://a0.muscache.com/im/Portrait/Avatars/messaging/b3e03835-ade9-4eb7-a0bb-2466ab9a534d.jpg?im_policy=medq_w_text&im_t=D&im_w=240&im_f=airbnb-cereal-medium.ttf&im_c=ffffff",
+            "isSuperhost": false,
+            "rareFind": false,
+            "lat": 49.44914,
+            "lng": 8.67901,
+            "persons": 2,
+            "reviewsCount": 2,
+            "type": "Entire rental unit",
+            "userId": 515515695,
+            "address": "Dossenheim, Baden-W\u00fcrttemberg, Germany",
+            "amenityIds": [
+                1,
+                129,
+                4,
+                8,
+                73,
+                137,
+                77,
+                79,
+                211,
+                85,
+                86,
+                23,
+                89,
+                665,
+                90,
+                27,
+                91,
+                92,
+                93,
+                30,
+                94,
+                95,
+                415,
+                671,
+                96,
+                672,
+                98,
+                35,
+                36,
+                100,
+                103,
+                40,
+                104,
+                41,
+                44,
+                236,
+                45,
+                625,
+                308,
+                500,
+                57,
+                251,
+                61
+            ],
+            "previewAmenities": [
+                "Wifi",
+                "Kitchen"
+            ],
+            "cancelPolicy": "CANCEL_MODERATE",
+            "price": {
+                "rate": 79,
+                "currency": "EUR",
+                "total": 551,
+                "priceItems": [
+                    {
+                        "amount": 546
+                    },
+                    {
+                        "amount": 109
+                    },
+                    {
+                        "amount": 35
+                    },
+                    {
+                        "amount": 79
+                    }
+                ]
+            }
+        },
+        {
+            "id": "24362983",
+            "url": "https://www.airbnb.com/rooms/24362983",
+            "deeplink": "https://www.airbnb.com/rooms/24362983?check_in=2023-07-01&check_out=2023-07-08&adults=1&children=0&infants=0&pets=0",
+            "position": 3,
+            "name": "Cozy apartment near Heidelberg/Mannheim",
+            "bathrooms": 1,
+            "bedrooms": 0,
+            "beds": 2,
+            "city": "Dossenheim",
+            "images": [
+                "https://a0.muscache.com/im/pictures/f6b83a3d-608c-43f0-b353-c8fd40154cf7.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/5f296a83-e7aa-4794-8e5a-83fdc7a9f552.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/49b9e0a4-9f4f-4ccd-9640-afee41ebf146.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/8325c5c7-b53b-4575-b354-6f3964a2f826.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/bdeeee2d-62b1-4514-a9f6-3fd70b54c9ab.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/402f33ee-1ea9-4903-a7a2-77bc9920fac3.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/0d24a1b2-5598-4c6d-9742-43365d68e77e.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/e58cb7dc-9dfb-44a0-94ee-fad487036581.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/99978bad-dda9-4331-8835-6ca03132d43d.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/57242517-84fb-498e-8d59-8ba5067cc8ec.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/2659a252-e93c-4ac1-9539-0a2a5bdff749.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/3707cdb7-829d-4cd1-ba27-d00680d710bd.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/8dc207f4-e554-4050-ade3-8f8ee0e48c84.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/daff7611-5d48-47c5-985a-e9d10727d8d9.jpg?im_w=720"
+            ],
+            "hostThumbnail": "https://a0.muscache.com/im/pictures/user/c664ec5f-294c-47fc-94e3-4d469938e3d3.jpg?aki_policy=profile_x_medium",
+            "isSuperhost": true,
+            "rareFind": true,
+            "lat": 49.45004,
+            "lng": 8.66399,
+            "persons": 2,
+            "reviewsCount": 37,
+            "rating": 4.92,
+            "type": "Entire rental unit",
+            "userId": 183847856,
+            "address": "Dossenheim, Baden-W\u00fcrttemberg, Germany",
+            "amenityIds": [
+                64,
+                1,
+                67,
+                4,
+                8,
+                72,
+                9,
+                73,
+                77,
+                85,
+                23,
+                280,
+                89,
+                90,
+                91,
+                92,
+                93,
+                30,
+                94,
+                95,
+                96,
+                35,
+                100,
+                103,
+                40,
+                104,
+                42,
+                44,
+                45,
+                179,
+                56
+            ],
+            "previewAmenities": [
+                "Wifi",
+                "Free parking",
+                "Kitchen"
+            ],
+            "cancelPolicy": "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
+            "price": {
+                "rate": 64,
+                "currency": "EUR",
+                "total": 442,
+                "priceItems": [
+                    {
+                        "amount": 394
+                    },
+                    {
+                        "amount": 46
+                    },
+                    {
+                        "amount": 30
+                    },
+                    {
+                        "amount": 64
+                    }
+                ]
+            }
+        },
+        {
+            "id": "836126667650985063",
+            "url": "https://www.airbnb.com/rooms/836126667650985063",
+            "deeplink": "https://www.airbnb.com/rooms/836126667650985063?check_in=2023-07-01&check_out=2023-07-08&adults=1&children=0&infants=0&pets=0",
+            "position": 4,
+            "name": "Private room next to Heidelberg",
+            "bathrooms": 1,
+            "bedrooms": 1,
+            "beds": 1,
+            "city": "Dossenheim",
+            "images": [
+                "https://a0.muscache.com/im/pictures/2126da04-f058-4679-a909-3921b77d880e.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/d4158157-6e83-4b75-974e-f56e1ae23e31.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/de9299b2-ccd6-4e47-ad43-fccc36cfa567.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/b4775e9d-04be-4d78-aa2b-a3b6a47658bb.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/089d0a52-4d42-4667-916c-c1775da10857.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/6986ca3f-cd22-4efe-a888-03ca11806450.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/0cc08514-00db-4580-938e-77803c721710.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/9f59b577-c18d-4a11-b7b3-ddc15e43a316.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/5a3f4d84-4153-4e45-a99e-ff5adf05d592.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/dcf8f53f-ba8f-4a4f-b583-32bf8d919603.jpg?im_w=720"
+            ],
+            "hostThumbnail": "https://a0.muscache.com/im/pictures/user/4ad65e9a-b283-41e9-bafb-524c725a5dea.jpg?aki_policy=profile_x_medium",
+            "isSuperhost": false,
+            "rareFind": false,
+            "lat": 49.45429,
+            "lng": 8.67515,
+            "persons": 2,
+            "reviewsCount": 11,
+            "rating": 5,
+            "type": "Private room in rental unit",
+            "userId": 3770273,
+            "address": "Dossenheim, Baden-W\u00fcrttemberg, Germany",
+            "amenityIds": [
+                129,
+                4,
+                5,
+                73,
+                137,
+                522,
+                77,
+                79,
+                85,
+                86,
+                23,
+                280,
+                89,
+                665,
+                91,
+                667,
+                92,
+                93,
+                30,
+                415,
+                98,
+                35,
+                611,
+                100,
+                39,
+                40,
+                104,
+                41,
+                42,
+                107,
+                44,
+                45,
+                46,
+                47,
+                179,
+                61
+            ],
+            "previewAmenities": [
+                "Wifi"
+            ],
+            "cancelPolicy": "CANCEL_MODERATE",
+            "price": {
+                "rate": 39,
+                "currency": "EUR",
+                "total": 273,
+                "priceItems": [
+                    {
+                        "amount": 249
+                    },
+                    {
+                        "amount": 25
+                    },
+                    {
+                        "amount": 10
+                    },
+                    {
+                        "amount": 39
+                    }
+                ]
+            }
+        },
+        {
+            "id": "14215434",
+            "url": "https://www.airbnb.com/rooms/14215434",
+            "deeplink": "https://www.airbnb.com/rooms/14215434?check_in=2023-07-01&check_out=2023-07-08&adults=1&children=0&infants=0&pets=0",
+            "position": 5,
+            "name": "Hostel-style accommodation, Room 4",
+            "bathrooms": 1,
+            "bedrooms": 1,
+            "beds": 1,
+            "city": "Edingen-Neckarhausen",
+            "images": [
+                "https://a0.muscache.com/im/pictures/92d48129-df08-4bba-a5a3-aebac05d22a2.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/ad65bf2f-de9c-4dfb-8fd9-986b5ccb0abd.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/202d0f2a-f7f3-440c-9690-185a50d62760.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/d9942001-3b22-46b9-9ebd-52d3d7b9cc93.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/897a228c-2039-4d1d-b697-3d72137fbcb5.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/311f42f5-9b9c-4436-a414-5a8b07587ce0.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/b2d8c984-1e02-4b22-9b35-f28dcbf2d31f.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/c581c674-d3cc-40ec-a6a0-fe43c267969f.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/122c303f-d8de-449e-947e-ad68765a9ef1.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/a9de4188-76de-4c3b-a7e4-43a761e95999.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/e33bc35a-14b1-4579-981b-a953f605890d.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/9f0caa22-c1bb-4366-8bb1-7c9da942955c.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/c671fbbb-ee2f-49e2-9bc7-21be598c214a.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/6185119a-d9a4-4c6b-8651-87fe45fd683f.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/a535e57f-6829-4f21-af00-438037357f7c.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/6262ad55-f523-4e88-aab7-44618cd90de5.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/6cf3d294-19f0-4f73-9575-8d082ad73099.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/de031e13-92a1-4b99-a751-d14ec5fd7c30.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/93c9e282-ef0a-49a4-9577-06497f5b16e1.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/5f43aa81-c7f7-4b61-9c83-c929dad5758c.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/a0a83f25-1d1a-40dd-8da2-85d8a4730da3.jpg?im_w=720"
+            ],
+            "hostThumbnail": "https://a0.muscache.com/im/pictures/user/06e50c1e-e821-4c25-b426-c03bb3efb0a1.jpg?aki_policy=profile_x_medium",
+            "isSuperhost": true,
+            "rareFind": false,
+            "lat": 49.46146,
+            "lng": 8.60301,
+            "persons": 1,
+            "reviewsCount": 227,
+            "rating": 4.86,
+            "type": "Private room in home",
+            "userId": 16516460,
+            "address": "Edingen-Neckarhausen, Baden-W\u00fcrttemberg, Germany",
+            "amenityIds": [
+                3,
+                131,
+                4,
+                8,
+                9,
+                77,
+                23,
+                89,
+                90,
+                91,
+                93,
+                30,
+                94,
+                95,
+                96,
+                33,
+                35,
+                37,
+                39,
+                103,
+                40,
+                104,
+                42,
+                44,
+                45,
+                46,
+                49,
+                625,
+                50,
+                57
+            ],
+            "previewAmenities": [
+                "Wifi",
+                "Free parking",
+                "Kitchen"
+            ],
+            "cancelPolicy": "CANCEL_MODERATE",
+            "price": {
+                "rate": 29,
+                "currency": "EUR",
+                "total": 199,
+                "priceItems": [
+                    {
+                        "amount": 189
+                    },
+                    {
+                        "amount": 19
+                    },
+                    {
+                        "amount": 29
+                    }
+                ]
+            }
+        },
+        {
+            "id": "602688404135861232",
+            "url": "https://www.airbnb.com/rooms/602688404135861232",
+            "deeplink": "https://www.airbnb.com/rooms/602688404135861232?check_in=2023-07-01&check_out=2023-07-08&adults=1&children=0&infants=0&pets=0",
+            "position": 6,
+            "name": "Neckar villa with garden and private parking",
+            "bathrooms": 2,
+            "bedrooms": 1,
+            "beds": 1,
+            "city": "Heidelberg",
+            "images": [
+                "https://a0.muscache.com/im/pictures/0389b3c5-fde1-4154-a145-50e75643b6b2.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/a56d33bb-5adf-44a8-a12e-9a72b0519fc2.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/c2c7a097-8899-4e4d-8233-f0a831abacb6.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/6ce8017e-3b30-448f-bc71-e5502aa007f2.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/1385e5da-ad1d-4c19-abdf-f7ca4e71aeb5.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/8348c660-4366-47b5-9e7c-dadf8aa11df3.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/07762716-6cba-4e23-b0ec-34cf77a2217a.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/a819fdd7-a0ac-4ccd-abf9-0ae817872959.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/e2cfeb88-c26d-42a7-aa57-02dfbc53418b.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/2577d99c-aab3-4b5e-b3a1-fa5798687127.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/6b210a31-e6cb-4350-b5cb-8ae9f01435ef.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/2d174d8a-2efc-4bfb-b719-a17879f6c97c.jpg?im_w=720"
+            ],
+            "hostThumbnail": "https://a0.muscache.com/im/pictures/user/79e6bd50-d341-41b3-a11f-146030f48fdf.jpg?aki_policy=profile_x_medium",
+            "isSuperhost": false,
+            "rareFind": false,
+            "lat": 49.426888,
+            "lng": 8.650721,
+            "persons": 1,
+            "reviewsCount": 6,
+            "rating": 4.67,
+            "type": "Private room in villa",
+            "userId": 354202810,
+            "address": "Heidelberg, Baden-W\u00fcrttemberg, Germany",
+            "amenityIds": [
+                33,
+                35,
+                99,
+                4,
+                36,
+                37,
+                39,
+                8,
+                9,
+                42,
+                46,
+                47,
+                179,
+                94,
+                510
+            ],
+            "previewAmenities": [
+                "Wifi",
+                "Free parking",
+                "Kitchen"
+            ],
+            "cancelPolicy": "CANCEL_MODERATE",
+            "price": {
+                "rate": 49,
+                "currency": "EUR",
+                "total": 343,
+                "priceItems": [
+                    {
+                        "amount": 294
+                    },
+                    {
+                        "amount": 49
+                    }
+                ]
+            }
+        },
+        {
+            "id": "45693711",
+            "url": "https://www.airbnb.com/rooms/45693711",
+            "deeplink": "https://www.airbnb.com/rooms/45693711?check_in=2023-07-01&check_out=2023-07-08&adults=1&children=0&infants=0&pets=0",
+            "position": 7,
+            "name": "Room with good tram connections to B3",
+            "bathrooms": 1,
+            "bedrooms": 1,
+            "beds": 1,
+            "city": "Hirschberg an der Bergstra\u00dfe",
+            "images": [
+                "https://a0.muscache.com/im/pictures/45c2046a-dcdd-4b56-a1e5-ce371c6af3ba.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/a28c2b04-ad49-4114-814f-703d6dfde6df.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/68b5306c-db11-4dc0-9408-d2121b017858.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/919dd60a-fd6b-40d3-8ebe-842619238a3a.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/e6cb61f0-e1ef-4e2f-a6d2-f7a9e24f5fbe.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/2893ff34-c501-4032-bb3b-6a9384466d2d.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/9124d0b0-07a0-4c32-92b5-36311c26c6d3.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/7c720f83-51b7-4355-b312-f188f78664ae.jpg?im_w=720"
+            ],
+            "hostThumbnail": "https://a0.muscache.com/im/pictures/user/814ffdca-0a8b-4a50-8725-badae02e1cbc.jpg?aki_policy=profile_x_medium",
+            "isSuperhost": true,
+            "rareFind": false,
+            "lat": 49.51295,
+            "lng": 8.65651,
+            "persons": 1,
+            "reviewsCount": 36,
+            "rating": 4.75,
+            "type": "Private room in home",
+            "userId": 370241538,
+            "address": "Hirschberg an der Bergstra\u00dfe, Baden-W\u00fcrttemberg, Germany",
+            "amenityIds": [
+                66,
+                35,
+                4,
+                100,
+                8,
+                40,
+                72,
+                9,
+                42,
+                44,
+                30
+            ],
+            "previewAmenities": [
+                "Wifi",
+                "Free parking",
+                "Kitchen"
+            ],
+            "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+            "price": {
+                "rate": 37,
+                "currency": "EUR",
+                "total": 257,
+                "priceItems": [
+                    {
+                        "amount": 205
+                    },
+                    {
+                        "amount": 10
+                    },
+                    {
+                        "amount": 25
+                    },
+                    {
+                        "amount": 37
+                    }
+                ]
+            }
+        },
+        {
+            "id": "6484311",
+            "url": "https://www.airbnb.com/rooms/6484311",
+            "deeplink": "https://www.airbnb.com/rooms/6484311?check_in=2023-07-01&check_out=2023-07-08&adults=1&children=0&infants=0&pets=0",
+            "position": 8,
+            "name": "Place to stay in Heidelberg",
+            "bathrooms": 1,
+            "bedrooms": 1,
+            "beds": 1,
+            "city": "Heidelberg",
+            "images": [
+                "https://a0.muscache.com/im/pictures/0a3b146d-b34d-4d1d-848e-7f7c92be0c78.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/3f0c8b0b-a8d0-4577-bf21-f14b9f7eaa71.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/e5d640dd-36f7-4aad-98d8-7ebfe5614a3c.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/591edba8-3816-496b-be34-591b0e9f6384.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/06345a3f-598d-4c68-b88e-0fe6b9e8cdaf.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/6ec58808-9950-4684-89a5-1ca41fa34e6f.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/8644c46a-7cbb-4a74-9c4f-aeb8d33b3f1e.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/81471459/f6215dab_original.jpg?im_w=720"
+            ],
+            "hostThumbnail": "https://a0.muscache.com/im/pictures/user/be57db87-7cc0-4705-b72d-2d3d3b7cbc11.jpg?aki_policy=profile_x_medium",
+            "isSuperhost": false,
+            "rareFind": false,
+            "lat": 49.42726,
+            "lng": 8.64478,
+            "persons": 1,
+            "reviewsCount": 28,
+            "rating": 4.63,
+            "type": "Private room in rental unit",
+            "userId": 707863,
+            "address": "Heidelberg, Baden-W\u00fcrttemberg, Germany",
+            "amenityIds": [
+                96,
+                33,
+                98,
+                3,
+                35,
+                4,
+                37,
+                101,
+                8,
+                40,
+                9,
+                44,
+                77,
+                46,
+                85,
+                86,
+                23,
+                91,
+                28,
+                93,
+                30,
+                94
+            ],
+            "previewAmenities": [
+                "Wifi",
+                "Free parking",
+                "Kitchen"
+            ],
+            "cancelPolicy": "CANCEL_MODERATE",
+            "price": {
+                "rate": 32,
+                "currency": "EUR",
+                "total": 223,
+                "priceItems": [
+                    {
+                        "amount": 196
+                    },
+                    {
+                        "amount": 20
+                    },
+                    {
+                        "amount": 15
+                    },
+                    {
+                        "amount": 32
+                    }
+                ]
+            }
+        },
+        {
+            "id": "52214392",
+            "url": "https://www.airbnb.com/rooms/52214392",
+            "deeplink": "https://www.airbnb.com/rooms/52214392?check_in=2023-07-01&check_out=2023-07-08&adults=1&children=0&infants=0&pets=0",
+            "position": 9,
+            "name": "Lovely condo near Heidelberg",
+            "bathrooms": 1,
+            "bedrooms": 1,
+            "beds": 1,
+            "city": "Schriesheim",
+            "images": [
+                "https://a0.muscache.com/im/pictures/17d1f117-6500-42c2-803f-0660b8a01dfc.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/3d169c07-98f4-4d30-8ca0-b7a68fc4e393.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/0d450f21-20cb-41b3-9e21-2699f534ac4d.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/e7256776-69e1-4b65-bfc3-0677c85585d1.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/f469685c-f0e9-419a-897b-e2e1af17920c.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/7e49c6d7-3665-4650-9fd7-8b3903d39398.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/d2e32714-a5fe-4ae2-b0fd-c76e3ab04849.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/a76cbc06-dd85-452a-b9c7-f6ed3009648a.jpg?im_w=720"
+            ],
+            "hostThumbnail": "https://a0.muscache.com/im/pictures/user/814ffdca-0a8b-4a50-8725-badae02e1cbc.jpg?aki_policy=profile_x_medium",
+            "isSuperhost": true,
+            "rareFind": false,
+            "lat": 49.47762,
+            "lng": 8.65556,
+            "persons": 2,
+            "reviewsCount": 10,
+            "rating": 4.6,
+            "type": "Entire condo",
+            "userId": 370241538,
+            "address": "Schriesheim, Baden-W\u00fcrttemberg, Germany",
+            "amenityIds": [
+                1,
+                2,
+                4,
+                8,
+                137,
+                77,
+                657,
+                146,
+                85,
+                23,
+                89,
+                665,
+                90,
+                93,
+                30,
+                94,
+                96,
+                672,
+                33,
+                35,
+                611,
+                40,
+                104,
+                41,
+                44,
+                236,
+                45,
+                47,
+                500,
+                57,
+                251,
+                510
+            ],
+            "previewAmenities": [
+                "Wifi",
+                "Kitchen"
+            ],
+            "cancelPolicy": "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
+            "price": {
+                "rate": 71,
+                "currency": "EUR",
+                "total": 491,
+                "priceItems": [
+                    {
+                        "amount": 365
+                    },
+                    {
+                        "amount": 55
+                    },
+                    {
+                        "amount": 71
+                    }
+                ]
+            }
+        },
+        {
+            "id": "892565651913259079",
+            "url": "https://www.airbnb.com/rooms/892565651913259079",
+            "deeplink": "https://www.airbnb.com/rooms/892565651913259079?check_in=2023-07-01&check_out=2023-07-08&adults=1&children=0&infants=0&pets=0",
+            "position": 10,
+            "name": "Wohnung Heidelberg Ziegelhausen",
+            "bathrooms": 1,
+            "bedrooms": 1,
+            "beds": 2,
+            "city": "Heidelberg",
+            "images": [
+                "https://a0.muscache.com/im/pictures/miso/Hosting-892565651913259079/original/1d2e9ad3-8ee5-4113-81a6-dc9234bc359f.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-892565651913259079/original/b7954b58-60c4-4ad8-8221-7fe9fa72cbce.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/0c59dc9c-3d20-4cc4-bd51-7ebe32728baa.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/d129122d-07b4-4880-9cd4-c58d1b8f9811.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/f964b23f-ad88-4a1a-9f93-66263ea02efd.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/b7653d33-316c-4f97-8711-ff0f0ff05f03.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/39fca7b6-e7b5-4ed9-84e3-cdf3e81a2ea7.jpg?im_w=720"
+            ],
+            "hostThumbnail": "https://a0.muscache.com/im/pictures/user/42bd7c48-9ea0-4963-a68b-bcf884521262.jpg?aki_policy=profile_x_medium",
+            "isSuperhost": false,
+            "rareFind": false,
+            "lat": 49.41775,
+            "lng": 8.75958,
+            "persons": 2,
+            "reviewsCount": 0,
+            "type": "Entire rental unit",
+            "userId": 338926824,
+            "address": "Heidelberg, Baden-W\u00fcrttemberg, Germany",
+            "amenityIds": [
+                64,
+                1,
+                66,
+                35,
+                4,
+                100,
+                37,
+                101,
+                8,
+                9,
+                47,
+                51,
+                179,
+                54,
+                90,
+                59,
+                91,
+                93,
+                63
+            ],
+            "previewAmenities": [
+                "Wifi",
+                "Free parking",
+                "Kitchen",
+                "Self check-in"
+            ],
+            "cancelPolicy": "CANCEL_MODERATE",
+            "price": {
+                "rate": 55,
+                "currency": "EUR",
+                "total": 383,
+                "priceItems": [
+                    {
+                        "amount": 364
+                    },
+                    {
+                        "amount": 36
+                    },
+                    {
+                        "amount": 55
+                    }
+                ]
+            }
+        },
+        {
+            "id": "22846175",
+            "url": "https://www.airbnb.com/rooms/22846175",
+            "deeplink": "https://www.airbnb.com/rooms/22846175?check_in=2023-07-01&check_out=2023-07-08&adults=1&children=0&infants=0&pets=0",
+            "position": 11,
+            "name": "Living by the river",
+            "bathrooms": 1,
+            "bedrooms": 0,
+            "beds": 1,
+            "city": "Heidelberg",
+            "images": [
+                "https://a0.muscache.com/im/pictures/a6b13039-c0de-4835-9b7e-505f4f1916bf.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/e292f27b-2fe6-47bd-b5ce-48b9e072c6e9.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/e349a412-588f-430c-b92c-1c458bfad1de.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/6ed871cb-c931-4a97-a6fc-25190b7766cd.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/0f568a24-f374-46ad-bdce-9f71c8c79331.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/d1306bb2-d240-4896-96d7-049c28648366.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/13f28ccd-41ea-48ef-ae06-685e10fb59f4.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/bbf35c9b-526c-4cbd-9850-b6655b787568.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/2b4eaf23-cbcd-4681-96ac-e35f09c967fe.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/745546e6-d768-4d8d-80d6-b067f202654d.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/67b8065f-c9aa-4c2b-ab81-bf1e3639b597.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/44d12406-e24b-4023-9c97-60a455d66b3f.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/95cb2b79-1c99-4701-b00e-005b3fdf9dc3.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/022d4554-58e8-40ee-8eda-822766200976.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/2c360eeb-009f-4767-9fc2-580134695e34.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/34a80fcf-ac91-4698-905f-d95a4521787d.jpg?im_w=720"
+            ],
+            "hostThumbnail": "https://a0.muscache.com/im/users/5982285/profile_pic/1366291232/original.jpg?aki_policy=profile_x_medium",
+            "isSuperhost": true,
+            "rareFind": false,
+            "lat": 49.41118,
+            "lng": 8.6621,
+            "persons": 2,
+            "reviewsCount": 110,
+            "rating": 4.79,
+            "type": "Entire rental unit",
+            "userId": 5982285,
+            "address": "Heidelberg, Baden-W\u00fcrttemberg, Germany",
+            "amenityIds": [
+                1,
+                4,
+                8,
+                73,
+                137,
+                522,
+                86,
+                23,
+                280,
+                89,
+                91,
+                667,
+                93,
+                30,
+                94,
+                671,
+                33,
+                35,
+                99,
+                100,
+                101,
+                40,
+                104,
+                42,
+                44,
+                236,
+                45,
+                46,
+                47,
+                179,
+                57
+            ],
+            "previewAmenities": [
+                "Wifi",
+                "Kitchen"
+            ],
+            "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+            "price": {
+                "rate": 83,
+                "currency": "EUR",
+                "total": 578,
+                "priceItems": [
+                    {
+                        "amount": 425
+                    },
+                    {
+                        "amount": 70
+                    },
+                    {
+                        "amount": 83
+                    }
+                ]
+            }
+        },
+        {
+            "id": "702514443864295219",
+            "url": "https://www.airbnb.com/rooms/702514443864295219",
+            "deeplink": "https://www.airbnb.com/rooms/702514443864295219?check_in=2023-07-01&check_out=2023-07-08&adults=1&children=0&infants=0&pets=0",
+            "position": 12,
+            "name": "Room of the soul",
+            "bathrooms": 1.5,
+            "bedrooms": 1,
+            "beds": 3,
+            "city": "Dossenheim",
+            "images": [
+                "https://a0.muscache.com/im/pictures/636ab0e7-fcd8-4d59-a4ae-40c971907d72.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/d3bc9224-11ba-4355-85d0-8d8b022617d5.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/64666be2-5556-4a01-9337-401dd4ac4aa5.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-700363546486710849/original/0461f09d-7191-449a-aad9-e40f14be99b5.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-700363546486710849/original/7c8934dd-4923-4b95-876f-4bd3da45ad4a.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-700363546486710849/original/751fdd66-6c01-44c3-b9d1-fbef5a3efc0c.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-700363546486710849/original/2ff4462e-3689-45d8-8849-76e2b56d0e93.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-700363546486710849/original/5ef41c87-9e6a-4007-aa23-1fd3731e0b51.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-700363546486710849/original/2ea7bb6e-70c5-4916-917c-9ff93b9ddda1.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-700363546486710849/original/8a4c058f-5f8f-4ab8-becf-f221bc0631ad.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-700363546486710849/original/20b31dd2-a8cf-4e50-a06a-2e84b2e354b8.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-700363546486710849/original/2757d816-316f-4abf-a17c-07e522c9651e.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-700363546486710849/original/3c92a437-49ab-464b-9f26-c059ea416891.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-700363546486710849/original/2edf1480-2512-4f27-a526-abfa3bd86e67.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-700363546486710849/original/5afd924a-ea43-41c5-8172-761b6948fc5b.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-700363546486710849/original/08f67aab-bd7c-41f3-b0dc-18205d70b56c.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-700363546486710849/original/6afa4c01-1ad7-46be-a7e3-4fe2223b580b.jpeg?im_w=720"
+            ],
+            "hostThumbnail": "https://a0.muscache.com/im/pictures/user/929b5e32-f4f0-438d-9cae-a0052ccdeb15.jpg?aki_policy=profile_x_medium",
+            "isSuperhost": false,
+            "rareFind": false,
+            "lat": 49.44379,
+            "lng": 8.67674,
+            "persons": 3,
+            "reviewsCount": 9,
+            "rating": 4.89,
+            "type": "Private room in home",
+            "userId": 149713839,
+            "address": "Dossenheim, Baden-W\u00fcrttemberg, Germany",
+            "amenityIds": [
+                1,
+                4,
+                5,
+                8,
+                392,
+                9,
+                137,
+                394,
+                522,
+                139,
+                12,
+                23,
+                280,
+                664,
+                665,
+                27,
+                30,
+                287,
+                415,
+                671,
+                672,
+                33,
+                34,
+                37,
+                39,
+                40,
+                42,
+                44,
+                172,
+                45,
+                46,
+                686,
+                47,
+                51,
+                179,
+                308,
+                54,
+                184,
+                185,
+                59,
+                64,
+                66,
+                322,
+                71,
+                73,
+                74,
+                77,
+                85,
+                86,
+                89,
+                90,
+                91,
+                219,
+                92,
+                93,
+                94,
+                95,
+                96,
+                99,
+                227,
+                100,
+                101,
+                102,
+                103,
+                104,
+                107,
+                363,
+                236,
+                625,
+                626,
+                251,
+                510
+            ],
+            "previewAmenities": [
+                "Hosted by a business",
+                "Wifi",
+                "Free parking",
+                "Kitchen"
+            ],
+            "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+            "price": {
+                "rate": 67,
+                "currency": "EUR",
+                "total": 468,
+                "priceItems": [
+                    {
+                        "amount": 348
+                    },
+                    {
+                        "amount": 17
+                    },
+                    {
+                        "amount": 70
+                    },
+                    {
+                        "amount": 67
+                    }
+                ]
+            }
+        },
+        {
+            "id": "642664734810957946",
+            "url": "https://www.airbnb.com/rooms/642664734810957946",
+            "deeplink": "https://www.airbnb.com/rooms/642664734810957946?check_in=2023-07-01&check_out=2023-07-08&adults=1&children=0&infants=0&pets=0",
+            "position": 13,
+            "name": "Beautiful, bright apartment with a small terrace",
+            "bathrooms": 1,
+            "bedrooms": 1,
+            "beds": 2,
+            "city": "Weinheim",
+            "images": [
+                "https://a0.muscache.com/im/pictures/449b9971-a36b-475b-adcc-d107fd924698.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/d5d60bab-3cb4-4d5c-853a-ba852e8a922d.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/2ec83d99-ad7b-4f5e-a430-e1efe0ad55a2.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/c4d482b8-82f4-4345-b923-eb9d8b43951e.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/bc39b85d-74ec-4eae-80b7-9a848d9c1946.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/2da09427-8c45-4e42-91fd-189ed96a4b47.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/eff9a73f-3298-43ae-b313-c3aa605c655e.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/9f9cd009-3aab-4d7f-a4af-f7a4f653ead1.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/487127bd-585b-4d30-ae67-11c9f10a6784.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/52ada930-75fd-4718-9bb2-72d955c32a37.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/98e31c78-324c-4094-808e-9dafc750f0e4.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/ae370c64-f5ae-4b12-8b90-d9f7435deac2.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/455c0384-3cb4-4d3b-b867-2875c5a80452.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/24a0aa63-d3dc-4ca8-917b-e6905549625f.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/c732ae11-5570-4bd2-9db1-7bde06bbd81d.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/83e591e9-8e4b-4c15-96fa-5fbbf0de4967.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-642664734810957946/original/b1959ad0-8cc9-41da-8606-46e0eeba693b.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/406933cc-7222-47c2-b3cc-cede83c5528f.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-642664734810957946/original/53bfe0f9-abe4-4ee4-8fa7-21a2e3f4b893.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/d94c2de6-258b-402f-8092-591d199531d1.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-642664734810957946/original/6d3eb752-4cd9-438a-887e-75633e3e13d3.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-642664734810957946/original/0529d570-6704-4306-917f-d20b8644a1f9.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/cdf088d3-7dee-4209-83b4-25fdce064450.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/13b5ee89-0053-4acc-9659-e895515045af.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/561db6ad-6a50-454a-977e-d2489decf1c6.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/f34fbe1b-6c8c-4460-ad45-19a362849f96.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/6a8dd8a3-b620-4933-85e6-68c3f839606f.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/8666314f-9d1e-4d30-8784-459fdabfd2d3.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/93a808cc-2ca1-4194-abbd-b6c3978eb125.jpg?im_w=720"
+            ],
+            "hostThumbnail": "https://a0.muscache.com/im/pictures/user/6242f5f2-9d1b-4865-8ede-7d902e3107b7.jpg?aki_policy=profile_x_medium",
+            "isSuperhost": true,
+            "rareFind": false,
+            "lat": 49.52312571620243,
+            "lng": 8.663425540017933,
+            "persons": 2,
+            "reviewsCount": 15,
+            "rating": 5,
+            "type": "Entire rental unit",
+            "userId": 63681652,
+            "address": "Weinheim, Baden-W\u00fcrttemberg, Germany",
+            "amenityIds": [
+                1,
+                2,
+                67,
+                4,
+                8,
+                9,
+                73,
+                137,
+                394,
+                77,
+                85,
+                86,
+                23,
+                280,
+                665,
+                90,
+                91,
+                92,
+                93,
+                30,
+                94,
+                95,
+                671,
+                96,
+                672,
+                35,
+                99,
+                100,
+                101,
+                40,
+                104,
+                44,
+                45,
+                625,
+                51,
+                179,
+                308,
+                500,
+                54,
+                57,
+                510
+            ],
+            "previewAmenities": [
+                "Wifi",
+                "Free parking",
+                "Kitchen",
+                "Self check-in"
+            ],
+            "cancelPolicy": "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
+            "price": {
+                "rate": 70,
+                "currency": "EUR",
+                "total": 488,
+                "priceItems": [
+                    {
+                        "amount": 431
+                    },
+                    {
+                        "amount": 43
+                    },
+                    {
+                        "amount": 30
+                    },
+                    {
+                        "amount": 70
+                    }
+                ]
+            }
+        },
+        {
+            "id": "44430631",
+            "url": "https://www.airbnb.com/rooms/44430631",
+            "deeplink": "https://www.airbnb.com/rooms/44430631?check_in=2023-07-01&check_out=2023-07-08&adults=1&children=0&infants=0&pets=0",
+            "position": 14,
+            "name": "Cottage on the edge of the Odenwald",
+            "bathrooms": 0.5,
+            "bedrooms": 1,
+            "beds": 1,
+            "city": "Weinheim",
+            "images": [
+                "https://a0.muscache.com/im/pictures/d69a325e-e4d5-462a-9259-2d64760e2a7b.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/680f6cbe-3fc9-4b85-8cfb-7a08fa13404a.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/b4b1e72f-a0ce-4434-bf14-4b016b7a8bec.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/111db1ef-ae29-40b4-9b00-f2a92ee743d8.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/85b73955-88b4-456b-bb06-5193fb0ede43.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/145bee85-b313-489a-b757-5b3b0a408ea8.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/81469aa0-1fed-48ff-9b27-2dc042dec060.jpg?im_w=720"
+            ],
+            "hostThumbnail": "https://a0.muscache.com/im/pictures/user/97f3d9f3-284e-4650-9c85-48c48aaf5ade.jpg?aki_policy=profile_x_medium",
+            "isSuperhost": false,
+            "rareFind": false,
+            "lat": 49.50568,
+            "lng": 8.69541,
+            "persons": 2,
+            "reviewsCount": 37,
+            "rating": 4.95,
+            "type": "Hut",
+            "userId": 14043989,
+            "address": "Weinheim, Baden-W\u00fcrttemberg, Germany",
+            "amenityIds": [
+                35,
+                99,
+                131,
+                4,
+                101,
+                39,
+                40,
+                9,
+                42,
+                146,
+                179,
+                85,
+                86,
+                23,
+                280,
+                57,
+                27,
+                91,
+                219
+            ],
+            "previewAmenities": [
+                "Wifi",
+                "Free parking"
+            ],
+            "cancelPolicy": "CANCEL_MODERATE",
+            "price": {
+                "rate": 45,
+                "currency": "EUR",
+                "total": 314,
+                "priceItems": [
+                    {
+                        "amount": 385
+                    },
+                    {
+                        "amount": 116
+                    },
+                    {
+                        "amount": 45
+                    }
+                ]
+            }
+        },
+        {
+            "id": "895654174154023627",
+            "url": "https://www.airbnb.com/rooms/895654174154023627",
+            "deeplink": "https://www.airbnb.com/rooms/895654174154023627?check_in=2023-07-01&check_out=2023-07-08&adults=1&children=0&infants=0&pets=0",
+            "position": 15,
+            "name": "Ferienhaus Heinz",
+            "bathrooms": 2,
+            "bedrooms": 1,
+            "beds": 1,
+            "city": "Heiligkreuzsteinach",
+            "images": [
+                "https://a0.muscache.com/im/pictures/miso/Hosting-895654174154023627/original/91526587-acdf-4c8f-81d1-b50f9544cc5e.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-895654174154023627/original/2de553ce-bb42-4834-a015-b3c3418733aa.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-895654174154023627/original/99251c78-8d65-4059-a203-c1f4cb59d981.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-895654174154023627/original/8afc8ac8-d833-4ab9-97ff-d58a61667591.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-895654174154023627/original/53aab28d-0a9f-4730-9798-bedec22eba6a.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-895654174154023627/original/5ee0cb47-129d-42fb-913b-d299453296f7.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-895654174154023627/original/94fd5a3d-6cf9-4442-955b-1ef3b2611954.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-895654174154023627/original/550d4418-c0d2-4c78-994f-90bb41b7e75e.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-895654174154023627/original/c5ec5b9c-ecaa-45e7-bad8-c90f22c81a7a.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-895654174154023627/original/b0ee69ca-55c8-4449-9771-6c17d6907448.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-895654174154023627/original/1c046ad8-effb-45ca-8577-6914bf001261.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-895654174154023627/original/d64f46b7-930f-42b1-b21b-80841033c8e9.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-895654174154023627/original/1a9da4c4-2ad3-4b40-adc6-6d0258e328eb.jpeg?im_w=720"
+            ],
+            "hostThumbnail": "https://a0.muscache.com/im/Portrait/Avatars/messaging/b3e03835-ade9-4eb7-a0bb-2466ab9a534d.jpg?im_policy=medq_w_text&im_t=P&im_w=240&im_f=airbnb-cereal-medium.ttf&im_c=ffffff",
+            "isSuperhost": false,
+            "rareFind": false,
+            "lat": 49.48385,
+            "lng": 8.79412,
+            "persons": 2,
+            "reviewsCount": 0,
+            "type": "Entire home",
+            "userId": 515688098,
+            "address": "Heiligkreuzsteinach, Baden-W\u00fcrttemberg, Germany",
+            "amenityIds": [
+                1,
+                4,
+                8,
+                9
+            ],
+            "previewAmenities": [
+                "Wifi",
+                "Free parking",
+                "Kitchen"
+            ],
+            "cancelPolicy": "CANCEL_MODERATE",
+            "price": {
+                "rate": 87,
+                "currency": "EUR",
+                "total": 605,
+                "priceItems": [
+                    {
+                        "amount": 518
+                    },
+                    {
+                        "amount": 87
+                    }
+                ]
+            }
+        },
+        {
+            "id": "9359825",
+            "url": "https://www.airbnb.com/rooms/9359825",
+            "deeplink": "https://www.airbnb.com/rooms/9359825?check_in=2023-07-01&check_out=2023-07-08&adults=1&children=0&infants=0&pets=0",
+            "position": 16,
+            "name": "40 m2 apartment Heidelberg Schlierbach",
+            "bathrooms": 1,
+            "bedrooms": 2,
+            "beds": 2,
+            "city": "Heidelberg",
+            "images": [
+                "https://a0.muscache.com/im/pictures/0a091aed-41df-4f6c-bad8-a78e61434e2f.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/b6360010-6d01-4982-821c-daa84e555849.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/71c2f948-531e-40a3-a892-7b20cc00aa2e.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/398d74bc-a9f7-4709-ad60-7e058ccd9cc4.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/4f01ee02-a964-4d90-bd7a-a2d66e97122b.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/55676a22-fc04-4444-b45d-9bf179af1b92.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/c81ff9d4-df24-4dc8-b883-2e03c402fd28.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/f32869be-96fd-489b-8a67-50c761c6b42a.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/3525e36f-9189-4e71-a787-af24f3f6a48a.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/74479dd7-3a6d-4493-869c-a4a9d00c7d16.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/5fc09220-8c9a-4611-877d-f6fb4377f95f.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/842e85b7-77cb-4985-b032-c807ecbcc092.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/cb21f30a-e410-45d4-9535-71d06fc67db3.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/91b14d56-77cf-4b00-a2f0-d09a2142f39f.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/fab31f3e-cf16-4dc8-8c35-5100cedab068.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/d011f7c0-41c7-4223-9cb1-aaee9d12b591.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/08caa336-e473-43a4-9cce-c76ffac43c85.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/5f89d668-41c9-4eb8-8538-3e311843ff8a.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/dbbf747d-09a8-469f-92c9-bcf4aaf64f3c.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/5c03b15b-5a70-4294-9bcd-af9fd099a505.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/5453ce7b-f673-4779-8177-34c72484317c.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/0478a664-dcf2-41a6-af36-f02a554fd167.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/4526f64e-c7f8-4c81-bd77-e937443add2c.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/cb31c5a8-c1b7-4ba9-b07f-c00b931d736a.jpg?im_w=720"
+            ],
+            "hostThumbnail": "https://a0.muscache.com/im/pictures/user/cbdc35dc-6c4f-46eb-b9cf-9c3e84ca4863.jpg?aki_policy=profile_x_medium",
+            "isSuperhost": false,
+            "rareFind": false,
+            "lat": 49.41584,
+            "lng": 8.74295,
+            "persons": 4,
+            "reviewsCount": 96,
+            "rating": 4.77,
+            "type": "Entire rental unit",
+            "userId": 40789970,
+            "address": "Heidelberg, Baden-W\u00fcrttemberg, Germany",
+            "amenityIds": [
+                1,
+                129,
+                4,
+                8,
+                77,
+                85,
+                86,
+                23,
+                87,
+                88,
+                90,
+                91,
+                93,
+                30,
+                94,
+                31,
+                95,
+                96,
+                35,
+                100,
+                101,
+                40,
+                44,
+                45,
+                46,
+                50,
+                56
+            ],
+            "previewAmenities": [
+                "Wifi",
+                "Kitchen"
+            ],
+            "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+            "price": {
+                "rate": 99,
+                "currency": "EUR",
+                "total": 689,
+                "priceItems": [
+                    {
+                        "amount": 560
+                    },
+                    {
+                        "amount": 30
+                    },
+                    {
+                        "amount": 99
+                    }
+                ]
+            }
+        },
+        {
+            "id": "586615199137859305",
+            "url": "https://www.airbnb.com/rooms/586615199137859305",
+            "deeplink": "https://www.airbnb.com/rooms/586615199137859305?check_in=2023-07-01&check_out=2023-07-08&adults=1&children=0&infants=0&pets=0",
+            "position": 17,
+            "name": "Petit Suite Heidelberg",
+            "bathrooms": 2.5,
+            "bedrooms": 2,
+            "beds": 3,
+            "city": "Heidelberg",
+            "images": [
+                "https://a0.muscache.com/im/pictures/miso/Hosting-586615199137859305/original/8331fe0c-af1e-45d3-b87c-4117f08dcf60.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-586615199137859305/original/37981939-5531-4654-b3e9-7df5a3f0e1f9.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-586615199137859305/original/be236757-bc3d-4122-88f8-af6efd3a70c2.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-586615199137859305/original/59ca99b5-d586-4f92-ba48-6b1e4c09c6c8.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-586615199137859305/original/e3e5f43d-c51d-4310-a767-0e03a6bac316.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-586615199137859305/original/ed26af82-efd8-415d-86d6-86b555ac3a11.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-586615199137859305/original/0efd6d15-84ba-4ff7-8da2-7d2d166db077.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-586615199137859305/original/04c6ad28-78e9-4162-bc72-98c290da2918.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-586615199137859305/original/7e8b5047-a7a2-44bc-aaf1-fb4dd7e0ea6e.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-586615199137859305/original/a37ac2e1-c845-441d-8587-6e9bf10fa9c5.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-586615199137859305/original/d01ed6c8-385e-4441-9e15-ad199a234666.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-586615199137859305/original/22b0b68d-d4cb-4205-a361-5564553f6453.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-586615199137859305/original/729623e6-a592-4c22-9b82-f1d4647ee2c2.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-586615199137859305/original/656b71ed-9339-484c-b60e-febb5e976bed.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-586615199137859305/original/3e329689-6bb8-48fd-bf58-460c3347783c.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-586615199137859305/original/8929571b-47a5-49b1-8c87-4aa1573d5961.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-586615199137859305/original/8babd3d4-cac8-415d-9d31-a37f20c9c502.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-586615199137859305/original/e8f58588-4c0f-4baf-bc4e-96e938b30934.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-586615199137859305/original/e2c6fa20-ab03-4070-af8b-47913a682879.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-586615199137859305/original/aad9e7d3-ce21-4076-8ba6-d142223d6b47.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-586615199137859305/original/5f880c07-6450-4159-9205-87176377f046.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-586615199137859305/original/55416d13-5099-42e3-a74a-38b5b0c9cfc7.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-586615199137859305/original/76daf520-e353-42d4-8125-dd6d99509ecf.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-586615199137859305/original/bda4c316-3c21-45f5-aa70-bafc07fcd57b.jpeg?im_w=720"
+            ],
+            "hostThumbnail": "https://a0.muscache.com/im/pictures/user/ccfc42e3-d338-466a-b2ae-0f310f1b0b88.jpg?aki_policy=profile_x_medium",
+            "isSuperhost": false,
+            "rareFind": false,
+            "lat": 49.41782,
+            "lng": 8.76133,
+            "persons": 4,
+            "reviewsCount": 13,
+            "rating": 4.92,
+            "type": "Entire rental unit",
+            "userId": 119473054,
+            "address": "Heidelberg, Baden-W\u00fcrttemberg, Germany",
+            "amenityIds": [
+                1,
+                4,
+                8,
+                9,
+                137,
+                77,
+                85,
+                86,
+                280,
+                665,
+                90,
+                91,
+                667,
+                92,
+                93,
+                30,
+                94,
+                415,
+                96,
+                33,
+                35,
+                100,
+                37,
+                101,
+                39,
+                40,
+                44,
+                236,
+                45,
+                46,
+                47,
+                625,
+                179,
+                308,
+                251,
+                60
+            ],
+            "previewAmenities": [
+                "Wifi",
+                "Free parking",
+                "Kitchen"
+            ],
+            "cancelPolicy": "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
+            "price": {
+                "rate": 140,
+                "currency": "EUR",
+                "total": 980,
+                "priceItems": [
+                    {
+                        "amount": 1120
+                    },
+                    {
+                        "amount": 336
+                    },
+                    {
+                        "amount": 55
+                    },
+                    {
+                        "amount": 141
+                    }
+                ]
+            }
+        },
+        {
+            "id": "664254505891826636",
+            "url": "https://www.airbnb.com/rooms/664254505891826636",
+            "deeplink": "https://www.airbnb.com/rooms/664254505891826636?check_in=2023-07-01&check_out=2023-07-08&adults=1&children=0&infants=0&pets=0",
+            "position": 18,
+            "name": "Beautiful apartment for 2 people in Heidelberg",
+            "bathrooms": 1,
+            "bedrooms": 1,
+            "beds": 1,
+            "city": "Heidelberg",
+            "images": [
+                "https://a0.muscache.com/im/pictures/miso/Hosting-664254505891826636/original/ab603322-bf0a-4482-a701-d37a5312f76b.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-664254505891826636/original/9886c466-769a-40c1-b071-de9304fd1be7.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-664254505891826636/original/62387bd3-0b5c-4969-8482-42e0de661aac.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-664254505891826636/original/04a5e3e7-3ef9-458f-a018-7546695292db.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-664254505891826636/original/5c6acd6f-fa54-4b38-8f9f-773d610b7355.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-664254505891826636/original/28fcbb8c-7252-4da5-8532-9b0b39b28a34.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-664254505891826636/original/cbcf2881-96bd-40c2-8ee3-0799056b9d36.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-664254505891826636/original/3ae14ee4-9d1f-453c-a444-a151705436b8.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-664254505891826636/original/d7127c2f-7756-4c55-8a0f-36952528a996.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-664254505891826636/original/9bacc3c7-c4dc-4d19-966f-d65835f6aae3.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-664254505891826636/original/1f7d1565-bb4c-4e9b-9214-55f2ae7d17b1.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-664254505891826636/original/16a932b4-a5a6-4e12-a4c4-3ab4cc7f4784.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-664254505891826636/original/9864ef6a-0f84-434f-b7ca-b42bd34c2df6.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-664254505891826636/original/7ecb081e-18ca-4e4f-a729-670ff070704a.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-664254505891826636/original/1adf83fc-788f-428d-92c1-d5c948d7b2e6.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-664254505891826636/original/b46441f0-3e57-476f-a773-774bf1b0fe9d.jpeg?im_w=720"
+            ],
+            "hostThumbnail": "https://a0.muscache.com/im/pictures/user/3ff1a8ce-bc6b-44b7-b70b-d53ba0085ab3.jpg?aki_policy=profile_x_medium",
+            "isSuperhost": false,
+            "rareFind": false,
+            "lat": 49.38245,
+            "lng": 8.68043,
+            "persons": 2,
+            "reviewsCount": 10,
+            "rating": 4.7,
+            "type": "Entire rental unit",
+            "userId": 467755088,
+            "address": "Heidelberg, Baden-W\u00fcrttemberg, Germany",
+            "amenityIds": [
+                1,
+                4,
+                5,
+                71,
+                8,
+                9,
+                137,
+                12,
+                77,
+                79,
+                21,
+                85,
+                89,
+                90,
+                91,
+                667,
+                93,
+                30,
+                94,
+                33,
+                35,
+                611,
+                39,
+                40,
+                104,
+                236,
+                45,
+                46,
+                47,
+                51,
+                53
+            ],
+            "previewAmenities": [
+                "Wifi",
+                "Free parking",
+                "Kitchen",
+                "Self check-in"
+            ],
+            "cancelPolicy": "CANCEL_FLEXIBLE",
+            "price": {
+                "rate": 88,
+                "currency": "EUR",
+                "total": 616,
+                "priceItems": [
+                    {
+                        "amount": 616
+                    }
+                ]
+            }
+        },
+        {
+            "id": "36557368",
+            "url": "https://www.airbnb.com/rooms/36557368",
+            "deeplink": "https://www.airbnb.com/rooms/36557368?check_in=2023-07-01&check_out=2023-07-08&adults=1&children=0&infants=0&pets=0",
+            "position": 19,
+            "name": "Cozy basement apartment",
+            "bathrooms": 1,
+            "bedrooms": 1,
+            "beds": 1,
+            "city": "Plankstadt",
+            "images": [
+                "https://a0.muscache.com/im/pictures/miso/Hosting-36557368/original/433eafb6-7ac3-42e2-92e8-a1f53af0ac67.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-36557368/original/1b08b6ff-ac65-446d-8b17-197e9ecb96d9.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/3b0de81f-7124-4811-9537-f81f7b698369.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-36557368/original/6c52b074-84c7-4617-bafd-f6fda1a7c59e.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-36557368/original/97f4b874-e861-4202-8674-ed772b2be2d6.jpeg?im_w=720"
+            ],
+            "hostThumbnail": "https://a0.muscache.com/im/pictures/user/11eb5e4a-65dd-42e0-9621-67f11e8f09c2.jpg?aki_policy=profile_x_medium",
+            "isSuperhost": false,
+            "rareFind": false,
+            "lat": 49.39121,
+            "lng": 8.59177,
+            "persons": 1,
+            "reviewsCount": 59,
+            "rating": 4.47,
+            "type": "Entire rental unit",
+            "userId": 192090483,
+            "address": "Plankstadt, Baden-W\u00fcrttemberg, Germany",
+            "amenityIds": [
+                1,
+                35,
+                4,
+                39,
+                8,
+                40,
+                73,
+                137,
+                42,
+                236,
+                77,
+                146,
+                51,
+                85,
+                54,
+                23,
+                87,
+                57,
+                89,
+                90,
+                91,
+                93,
+                30
+            ],
+            "previewAmenities": [
+                "Wifi",
+                "Kitchen",
+                "Self check-in"
+            ],
+            "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+            "price": {
+                "rate": 29,
+                "currency": "EUR",
+                "total": 199,
+                "priceItems": [
+                    {
+                        "amount": 165
+                    },
+                    {
+                        "amount": 5
+                    },
+                    {
+                        "amount": 10
+                    },
+                    {
+                        "amount": 29
+                    }
+                ]
+            }
+        },
+        {
+            "id": "16886608",
+            "url": "https://www.airbnb.com/rooms/16886608",
+            "deeplink": "https://www.airbnb.com/rooms/16886608?check_in=2023-07-01&check_out=2023-07-08&adults=1&children=0&infants=0&pets=0",
+            "position": 20,
+            "name": "Comfortable  3-room apartment in Schwetzingen",
+            "bathrooms": 1,
+            "bedrooms": 2,
+            "beds": 3,
+            "city": "Schwetzingen",
+            "images": [
+                "https://a0.muscache.com/im/pictures/miso/Hosting-16886608/original/0b79b2e1-f48c-4a7f-8da2-74553e711c99.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/bda7fb8e-e3c1-4fe5-9345-f578fad2c6e8.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-16886608/original/63119a35-ca6f-4f4b-861a-f35ef5c61923.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/738cfa4f-a034-4501-bd25-4030a610650d.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/06bbde03-7f51-44c3-8ddf-5bbff5a153a5.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/ddd74e5b-1458-4351-8cd4-253c734b2c15.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/a07f0398-d67c-48cd-9f6c-db0ae9fe55ba.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-16886608/original/83d0325d-9290-412f-84a9-a93a190f7161.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-16886608/original/01c73143-fbe2-45dc-9038-e109d94be520.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-16886608/original/ccaa1875-2f62-4b6c-a20f-a640d4eb7d59.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-16886608/original/517e0400-015f-4192-be39-88ae33cf2d6f.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-16886608/original/51525fe3-0d4c-44c1-a9a2-6bda5a401a30.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-16886608/original/3d38f1aa-99bd-45bc-98da-23f6d8f36587.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-16886608/original/a24a53f6-b0c1-4799-841c-b1ef1af3ca33.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/52e41e0b-700c-4418-b043-b1486781f51d.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/ede34093-bce6-4fa6-b451-d8220ff05c5a.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-16886608/original/3a64e9ce-0f04-44c7-ae57-214a73059c3b.jpeg?im_w=720"
+            ],
+            "hostThumbnail": "https://a0.muscache.com/im/pictures/user/a27ef7d7-80c8-4bb2-8e62-4ec3b8b5959d.jpg?aki_policy=profile_x_medium",
+            "isSuperhost": false,
+            "rareFind": false,
+            "lat": 49.38716,
+            "lng": 8.57511,
+            "persons": 5,
+            "reviewsCount": 76,
+            "rating": 4.87,
+            "type": "Entire rental unit",
+            "userId": 77209222,
+            "address": "Schwetzingen, Baden-W\u00fcrttemberg, Germany",
+            "amenityIds": [
+                64,
+                1,
+                2,
+                3,
+                4,
+                8,
+                73,
+                137,
+                10,
+                522,
+                77,
+                145,
+                85,
+                23,
+                89,
+                90,
+                91,
+                28,
+                92,
+                93,
+                30,
+                94,
+                31,
+                95,
+                415,
+                96,
+                672,
+                33,
+                35,
+                36,
+                100,
+                37,
+                40,
+                104,
+                41,
+                43,
+                44,
+                236,
+                45,
+                46,
+                47,
+                625,
+                51,
+                52,
+                57,
+                251
+            ],
+            "previewAmenities": [
+                "Wifi",
+                "Kitchen",
+                "Self check-in"
+            ],
+            "cancelPolicy": "CANCEL_MODERATE",
+            "price": {
+                "rate": 100,
+                "currency": "EUR",
+                "total": 694,
+                "priceItems": [
+                    {
+                        "amount": 727
+                    },
+                    {
+                        "amount": 73
+                    },
+                    {
+                        "amount": 40
+                    }
+                ]
+            }
+        },
+        {
+            "id": "25940792",
+            "url": "https://www.airbnb.com/rooms/25940792",
+            "deeplink": "https://www.airbnb.com/rooms/25940792?check_in=2023-07-01&check_out=2023-07-08&adults=1&children=0&infants=0&pets=0",
+            "position": 21,
+            "name": "Cottages to feel good about",
+            "bathrooms": 1,
+            "bedrooms": 1,
+            "beds": 2,
+            "city": "Wiesenbach",
+            "images": [
+                "https://a0.muscache.com/im/pictures/f2cd6db1-aae1-4297-bb71-b81954916b54.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/ed9bec1c-30a0-4d09-b511-9f1745e4a0e1.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/cccf9285-6645-4a57-bbf2-53793a2889ea.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/78bf1a16-e3cb-424f-a79e-5d3b6ffaf672.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/bfec2da1-2829-4029-a250-0efc1c047400.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/b0f32b6c-8e6c-4ee7-94c4-75a41e0810ac.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/9d517f15-734a-43f1-a07c-fb3d67cb8d1e.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/f54dd7e0-fa09-4800-bac4-cbd0c7ab91a7.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/e2ab3440-d3e2-4c86-beef-41332217258e.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/66e0774b-b234-447a-94aa-5151f71cb3e0.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/631c3ae4-8f43-4737-b752-a13ffda02341.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/d7bc3da2-6135-46e3-a427-b0ebfd8f7c93.jpg?im_w=720"
+            ],
+            "hostThumbnail": "https://a0.muscache.com/im/pictures/user/23a723cf-80e5-44b8-b2d4-f10564ef96c1.jpg?aki_policy=profile_x_medium",
+            "isSuperhost": false,
+            "rareFind": false,
+            "lat": 49.36252,
+            "lng": 8.80067,
+            "persons": 4,
+            "reviewsCount": 105,
+            "rating": 4.81,
+            "type": "Entire home",
+            "userId": 188813353,
+            "address": "Wiesenbach, Baden-W\u00fcrttemberg, Germany",
+            "amenityIds": [
+                1,
+                129,
+                4,
+                8,
+                9,
+                73,
+                137,
+                77,
+                85,
+                23,
+                280,
+                89,
+                90,
+                91,
+                92,
+                93,
+                30,
+                94,
+                95,
+                96,
+                672,
+                35,
+                36,
+                100,
+                39,
+                40,
+                44,
+                45,
+                57,
+                251
+            ],
+            "previewAmenities": [
+                "Wifi",
+                "Free parking",
+                "Kitchen"
+            ],
+            "cancelPolicy": "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
+            "price": {
+                "rate": 75,
+                "currency": "EUR",
+                "total": 522,
+                "priceItems": [
+                    {
+                        "amount": 425
+                    },
+                    {
+                        "amount": 13
+                    },
+                    {
+                        "amount": 35
+                    },
+                    {
+                        "amount": 75
+                    }
+                ]
+            }
+        },
+        {
+            "id": "673115950662417617",
+            "url": "https://www.airbnb.com/rooms/673115950662417617",
+            "deeplink": "https://www.airbnb.com/rooms/673115950662417617?check_in=2023-07-01&check_out=2023-07-08&adults=1&children=0&infants=0&pets=0",
+            "position": 22,
+            "name": "Study in villa with garden right on the Neckar",
+            "bathrooms": 2,
+            "bedrooms": 1,
+            "beds": 1,
+            "city": "Heidelberg",
+            "images": [
+                "https://a0.muscache.com/im/pictures/9403ab98-9200-477e-9144-ff4db4bd8064.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/0f9f5657-331c-4aec-8cc2-542aef86d877.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/daa770b1-5014-4367-b353-4189cd00df6f.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/07a1cdd6-0221-473a-bc1c-1ab412796ef5.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/02ea3c43-93ef-4513-9c9d-4df70403b598.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/94daf417-0460-4df2-af21-4584d42d1b34.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/6dd1d7d4-3279-45e3-a78b-2e8a50994882.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/24d09647-8b1a-4709-b907-7e670e2ee689.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/19c9a681-ae39-4ffb-8843-7a8ae7f982f9.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/8bc046c0-adbd-42ec-80e3-aa59b1d22bf9.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/3760e12e-b76c-4de0-baaa-ad9dbfac53d2.jpg?im_w=720"
+            ],
+            "hostThumbnail": "https://a0.muscache.com/im/pictures/user/79e6bd50-d341-41b3-a11f-146030f48fdf.jpg?aki_policy=profile_x_medium",
+            "isSuperhost": false,
+            "rareFind": false,
+            "lat": 49.4267557,
+            "lng": 8.6509571,
+            "persons": 1,
+            "reviewsCount": 7,
+            "rating": 4.57,
+            "type": "Private room in villa",
+            "userId": 354202810,
+            "address": "Heidelberg, Baden-W\u00fcrttemberg, Germany",
+            "amenityIds": [
+                33,
+                35,
+                99,
+                4,
+                37,
+                39,
+                8,
+                40,
+                9,
+                42,
+                44,
+                77,
+                46,
+                47,
+                179,
+                211,
+                85,
+                665,
+                667,
+                93,
+                30,
+                94,
+                510
+            ],
+            "previewAmenities": [
+                "Wifi",
+                "Free parking",
+                "Kitchen"
+            ],
+            "cancelPolicy": "CANCEL_MODERATE",
+            "price": {
+                "rate": 49,
+                "currency": "EUR",
+                "total": 343,
+                "priceItems": [
+                    {
+                        "amount": 294
+                    },
+                    {
+                        "amount": 49
+                    }
+                ]
+            }
+        },
+        {
+            "id": "14386812",
+            "url": "https://www.airbnb.com/rooms/14386812",
+            "deeplink": "https://www.airbnb.com/rooms/14386812?check_in=2023-07-01&check_out=2023-07-08&adults=1&children=0&infants=0&pets=0",
+            "position": 23,
+            "name": "Nice apartment with atmosphere",
+            "bathrooms": 1,
+            "bedrooms": 0,
+            "beds": 1,
+            "city": "Heidelberg",
+            "images": [
+                "https://a0.muscache.com/im/pictures/e3b39aa2-38e7-4955-8a91-2d7ebe37eaf0.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/804ef684-250d-40a0-81d9-ba87ec2c08ab.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/f6b515b3-9c02-4f24-9c3c-c4b065702d02.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/86d290c5-b04a-4667-9936-005db07f12c0.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/55d765c8-637b-4bae-a53e-a246736316d6.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/4a8ee7db-a3ba-4dcd-9ea0-99ffc94df3c7.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/b5834a5b-6135-4f1f-9e86-06d4422cd67b.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/03eb4e1d-bfa6-4a51-aad6-20f047807bd4.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/8e1afc47-2f66-4111-8015-c79050386128.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/f0c2ff03-1099-4f82-811a-f7cf8c327732.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/dd4cb076-c203-4286-adad-8690643b1c78.jpg?im_w=720"
+            ],
+            "hostThumbnail": "https://a0.muscache.com/im/users/5982285/profile_pic/1366291232/original.jpg?aki_policy=profile_x_medium",
+            "isSuperhost": true,
+            "rareFind": false,
+            "lat": 49.4094,
+            "lng": 8.66127,
+            "persons": 2,
+            "reviewsCount": 31,
+            "rating": 4.9,
+            "type": "Entire rental unit",
+            "userId": 5982285,
+            "address": "Heidelberg, Baden-W\u00fcrttemberg, Germany",
+            "amenityIds": [
+                1,
+                33,
+                4,
+                8,
+                40,
+                12,
+                44,
+                45,
+                46,
+                47,
+                49,
+                50,
+                30
+            ],
+            "previewAmenities": [
+                "Wifi",
+                "Kitchen"
+            ],
+            "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+            "price": {
+                "rate": 83,
+                "currency": "EUR",
+                "total": 575,
+                "priceItems": [
+                    {
+                        "amount": 455
+                    },
+                    {
+                        "amount": 23
+                    },
+                    {
+                        "amount": 60
+                    },
+                    {
+                        "amount": 83
+                    }
+                ]
+            }
+        },
+        {
+            "id": "702526058599359324",
+            "url": "https://www.airbnb.com/rooms/702526058599359324",
+            "deeplink": "https://www.airbnb.com/rooms/702526058599359324?check_in=2023-07-01&check_out=2023-07-08&adults=1&children=0&infants=0&pets=0",
+            "position": 24,
+            "name": "Room of Independence",
+            "bathrooms": 1.5,
+            "bedrooms": 1,
+            "beds": 2,
+            "city": "Dossenheim",
+            "images": [
+                "https://a0.muscache.com/im/pictures/b67c697e-d207-4abf-b4b1-109e5ab735e1.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-702526058599359324/original/3b8577a5-0a20-4d3a-ac98-a2d86158a25d.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/2362d89d-a921-4778-9698-be81d7f3d19a.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/f30c9dc5-5d4f-4632-9969-16ba75e04fd4.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-702526058599359324/original/b2720e24-4b39-4b4e-bd0a-1c5623e68540.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/6f69579b-0739-48d5-9856-a03bca42b5fb.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/948160e1-71b7-489c-a2a7-8947318ccc6a.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/c90342b4-6ade-4f3c-8eb3-28496d810b3c.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/dd191ca3-2aa7-4e56-8e31-55f2fb358728.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/f4d6d164-4ef9-4b97-ab7a-94d276bc4fa4.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/c9915e86-76ac-4ab4-875a-2c59093e9754.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/1fb263e2-fdfb-414a-a0e2-5a392c9a65be.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-702526058599359324/original/b59ee8be-4af0-4008-a1bf-a36443da571a.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-702526058599359324/original/2a763542-463c-494b-9c19-a545db227395.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/9db319c9-bab8-4250-a46d-8fa3a92517c9.jpg?im_w=720"
+            ],
+            "hostThumbnail": "https://a0.muscache.com/im/pictures/user/929b5e32-f4f0-438d-9cae-a0052ccdeb15.jpg?aki_policy=profile_x_medium",
+            "isSuperhost": false,
+            "rareFind": false,
+            "lat": 49.44356,
+            "lng": 8.67593,
+            "persons": 3,
+            "reviewsCount": 4,
+            "rating": 5,
+            "type": "Private room in home",
+            "userId": 149713839,
+            "address": "Dossenheim, Baden-W\u00fcrttemberg, Germany",
+            "amenityIds": [
+                1,
+                4,
+                8,
+                9,
+                12,
+                280,
+                90,
+                27,
+                91,
+                219,
+                93,
+                30,
+                94,
+                33,
+                99,
+                227,
+                100,
+                37,
+                101,
+                39,
+                42,
+                47,
+                51,
+                179,
+                54,
+                184,
+                510
+            ],
+            "previewAmenities": [
+                "Wifi",
+                "Free parking",
+                "Kitchen",
+                "Self check-in"
+            ],
+            "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+            "price": {
+                "rate": 61,
+                "currency": "EUR",
+                "total": 426,
+                "priceItems": [
+                    {
+                        "amount": 350
+                    },
+                    {
+                        "amount": 35
+                    },
+                    {
+                        "amount": 50
+                    },
+                    {
+                        "amount": 61
+                    }
+                ]
+            }
+        },
+        {
+            "id": "44231844",
+            "url": "https://www.airbnb.com/rooms/44231844",
+            "deeplink": "https://www.airbnb.com/rooms/44231844?check_in=2023-07-01&check_out=2023-07-08&adults=1&children=0&infants=0&pets=0",
+            "position": 25,
+            "name": "NEW! Extravagant Housing Heidelberg 4-8 persons",
+            "bathrooms": 2.5,
+            "bedrooms": 3,
+            "beds": 6,
+            "city": "Dossenheim",
+            "images": [
+                "https://a0.muscache.com/im/pictures/miso/Hosting-44231844/original/3fa5c527-5b1f-4d2f-a131-443e8df82bec.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-44231844/original/10f930ba-689f-4690-9e7a-f7ec2184abec.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-44231844/original/bd3258e1-abcc-4989-81b4-59258f0d6ca2.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-44231844/original/860af451-e76a-4d68-b064-203f0a86bebc.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/c054626e-bee4-4bb7-84bc-2c9381c87dbd.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/bdc06d61-ac4d-4d10-b191-a81d646c2891.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-44231844/original/13937002-f067-4b32-ba8d-6ec788942729.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-44231844/original/8d5f6959-d774-40f2-b567-86bcac11d9d1.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-44231844/original/b5fc9ef0-338c-4d52-8dbe-5f4ccd553ac6.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-44231844/original/702a4a70-9855-44b1-9efa-cb5dbf8b6bea.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-44231844/original/8aabb230-a8dc-428c-a62c-4464bb2c76aa.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/82dbc505-cc62-49ae-b828-5b4b2530c0ae.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/769edfa0-cd8c-4265-9942-1b02365b3a2f.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-44231844/original/18e281dd-147c-406d-a89d-867df043dffc.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-44231844/original/127cb84a-a5ed-4b6f-a48e-d90a1aeb36d8.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/e2516652-ef3b-420f-994f-18208fbfca18.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/37fcab92-1d3d-4bc4-94a3-eb95593ec733.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/b4c5d691-9757-441a-b151-822b7e4cec3c.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/ba23a16c-1bcc-4c2a-89fb-f2be2f9d04d4.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/ee6fe6fa-6ca2-4a62-8e34-c20dfeab6c98.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/53afca5e-2df9-4233-b54d-aec09b3a3064.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/7bafac21-6e7b-4b3d-926c-d400535aa6b2.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-44231844/original/c17d007c-02a7-455e-8f40-8ac52457f52f.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-44231844/original/7f134cf8-98cf-4dc7-b8df-5b4afe738549.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-44231844/original/5dc1d901-3cbe-4248-9f39-3f928415b0a7.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-44231844/original/bea96777-c41a-4059-b4fb-26d21c0a363a.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-44231844/original/e182cdd6-483d-4edd-b023-2d99ccda537e.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-44231844/original/c47ab75f-ea50-452a-8aef-7c64a2b9bef5.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-44231844/original/fb30cf28-d5c9-4e2f-a247-1d118f6d57d3.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/54c24834-51b4-46b4-8d0d-62258247be26.jpg?im_w=720"
+            ],
+            "hostThumbnail": "https://a0.muscache.com/im/pictures/user/110b2d8a-f4ac-40c6-beca-216b459eb779.jpg?aki_policy=profile_x_medium",
+            "isSuperhost": false,
+            "rareFind": false,
+            "lat": 49.45275,
+            "lng": 8.66772,
+            "persons": 8,
+            "reviewsCount": 7,
+            "rating": 5,
+            "type": "Entire rental unit",
+            "userId": 355755570,
+            "address": "Dossenheim, Baden-W\u00fcrttemberg, Germany",
+            "amenityIds": [
+                1,
+                65,
+                2,
+                67,
+                4,
+                5,
+                8,
+                9,
+                73,
+                522,
+                77,
+                79,
+                85,
+                86,
+                23,
+                89,
+                90,
+                91,
+                92,
+                93,
+                30,
+                94,
+                95,
+                96,
+                33,
+                34,
+                611,
+                100,
+                101,
+                103,
+                40,
+                104,
+                41,
+                42,
+                44,
+                45,
+                46,
+                625,
+                308,
+                56,
+                57,
+                61
+            ],
+            "previewAmenities": [
+                "Hosted by a business",
+                "Wifi",
+                "Free parking",
+                "Kitchen"
+            ],
+            "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+            "price": {
+                "rate": 458,
+                "currency": "EUR",
+                "total": 3200,
+                "priceItems": [
+                    {
+                        "amount": 2800
+                    },
+                    {
+                        "amount": 140
+                    },
+                    {
+                        "amount": 80
+                    },
+                    {
+                        "amount": 460
+                    }
+                ]
+            }
+        },
+        {
+            "id": "713116274851538144",
+            "url": "https://www.airbnb.com/rooms/713116274851538144",
+            "deeplink": "https://www.airbnb.com/rooms/713116274851538144?check_in=2023-07-01&check_out=2023-07-08&adults=1&children=0&infants=0&pets=0",
+            "position": 26,
+            "name": "Apartment in Heidelberg mit kleinem Balkon",
+            "bathrooms": 1,
+            "bedrooms": 1,
+            "beds": 3,
+            "city": "Heidelberg",
+            "images": [
+                "https://a0.muscache.com/im/pictures/160622fa-4b9d-48cb-823c-60e4c30424c0.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/16bc373c-0cf3-437b-b2e7-b666a7a56693.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/de4c694f-0c55-47e1-927b-60cabf1b4793.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/34e8b524-f810-47f9-bcaa-c8ad7ba90e67.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/b12531cc-30a9-45cb-82ee-a0c3abc8f31d.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/0806ed12-0264-40ce-a2e2-3b6882c1b31e.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/1189c776-cc35-4bdf-aa86-c2f1caf3f643.jpg?im_w=720"
+            ],
+            "hostThumbnail": "https://a0.muscache.com/im/Portrait/Avatars/messaging/b3e03835-ade9-4eb7-a0bb-2466ab9a534d.jpg?im_policy=medq_w_text&im_t=A&im_w=240&im_f=airbnb-cereal-medium.ttf&im_c=ffffff",
+            "isSuperhost": false,
+            "rareFind": true,
+            "lat": 49.382170671012474,
+            "lng": 8.663534447550774,
+            "persons": 1,
+            "reviewsCount": 1,
+            "type": "Entire rental unit",
+            "userId": 372420603,
+            "address": "Heidelberg, Baden-W\u00fcrttemberg, Germany",
+            "amenityIds": [
+                1,
+                4,
+                5,
+                8,
+                9,
+                73,
+                137,
+                10,
+                77,
+                79,
+                145,
+                85,
+                86,
+                23,
+                89,
+                665,
+                91,
+                667,
+                93,
+                30,
+                94,
+                287,
+                671,
+                96,
+                672,
+                33,
+                34,
+                35,
+                611,
+                100,
+                37,
+                103,
+                40,
+                104,
+                41,
+                44,
+                236,
+                45,
+                46,
+                47,
+                51,
+                308,
+                54
+            ],
+            "previewAmenities": [
+                "Wifi",
+                "Free parking",
+                "Kitchen",
+                "Self check-in"
+            ],
+            "cancelPolicy": "CANCEL_FLEXIBLE",
+            "price": {
+                "rate": 89,
+                "currency": "EUR",
+                "total": 617,
+                "priceItems": [
+                    {
+                        "amount": 532
+                    },
+                    {
+                        "amount": 53
+                    },
+                    {
+                        "amount": 49
+                    },
+                    {
+                        "amount": 89
+                    }
+                ]
+            }
+        },
+        {
+            "id": "20939369",
+            "url": "https://www.airbnb.com/rooms/20939369",
+            "deeplink": "https://www.airbnb.com/rooms/20939369?check_in=2023-07-01&check_out=2023-07-08&adults=1&children=0&infants=0&pets=0",
+            "position": 27,
+            "name": "Cozy , Rustic Single Room",
+            "bathrooms": 1,
+            "bedrooms": 1,
+            "beds": 1,
+            "city": "Heidelberg",
+            "images": [
+                "https://a0.muscache.com/im/pictures/be2192bd-a755-48af-8c31-4b7ae1312c9d.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/85dde536-e87c-4b73-9442-2b8d250e696a.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/897140d4-af48-4692-9789-b052205d50a0.jpg?im_w=720"
+            ],
+            "hostThumbnail": "https://a0.muscache.com/im/users/13630274/profile_pic/1402246740/original.jpg?aki_policy=profile_x_medium",
+            "isSuperhost": false,
+            "rareFind": false,
+            "lat": 49.41147,
+            "lng": 8.74326,
+            "persons": 1,
+            "reviewsCount": 135,
+            "rating": 4.81,
+            "type": "Private room in home",
+            "userId": 13630274,
+            "address": "Heidelberg, Baden-W\u00fcrttemberg, Germany",
+            "amenityIds": [
+                129,
+                4,
+                73,
+                394,
+                12,
+                77,
+                79,
+                17,
+                18,
+                85,
+                86,
+                23,
+                280,
+                347,
+                30,
+                671,
+                611,
+                37,
+                101,
+                103,
+                40,
+                104,
+                44,
+                45,
+                179,
+                248
+            ],
+            "previewAmenities": [
+                "Wifi"
+            ],
+            "cancelPolicy": "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
+            "price": {
+                "rate": 52,
+                "currency": "EUR",
+                "total": 363,
+                "priceItems": [
+                    {
+                        "amount": 350
+                    },
+                    {
+                        "amount": 39
+                    },
+                    {
+                        "amount": 52
+                    }
+                ]
+            }
+        },
+        {
+            "id": "847155123062608602",
+            "url": "https://www.airbnb.com/rooms/847155123062608602",
+            "deeplink": "https://www.airbnb.com/rooms/847155123062608602?check_in=2023-07-01&check_out=2023-07-08&adults=1&children=0&infants=0&pets=0",
+            "position": 28,
+            "name": "Wellness oasis",
+            "bathrooms": 1,
+            "bedrooms": 1,
+            "beds": 1,
+            "city": "Heidelberg",
+            "images": [
+                "https://a0.muscache.com/im/pictures/miso/Hosting-847155123062608602/original/5b6d19ce-0e79-410f-851f-f64b5adbd40d.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-847155123062608602/original/991fa890-1c6a-4912-9ed3-4364d0f7535f.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-847155123062608602/original/c8f8b2cc-2ea7-49f3-b4ba-f781c6c3b3dc.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-847155123062608602/original/f86ba08a-008a-4872-981c-6e00e1c238a1.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-847155123062608602/original/d4b9eabb-d262-4e66-9be8-67157388e698.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-847155123062608602/original/e6ff906e-e03f-45c6-a365-e6dbc6ce8159.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-847155123062608602/original/ad62f3db-361d-4962-9d3e-65f6201bd527.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-847155123062608602/original/c211ea7e-5222-4689-bc0e-db08986064b5.jpeg?im_w=720"
+            ],
+            "hostThumbnail": "https://a0.muscache.com/im/pictures/user/ca07a535-015a-45af-b712-a80feccd8f49.jpg?aki_policy=profile_x_medium",
+            "isSuperhost": false,
+            "rareFind": false,
+            "lat": 49.4177857,
+            "lng": 8.7286915,
+            "persons": 2,
+            "reviewsCount": 0,
+            "type": "Entire rental unit",
+            "userId": 401801785,
+            "address": "Heidelberg, Baden-W\u00fcrttemberg, Germany",
+            "amenityIds": [
+                32,
+                33,
+                35,
+                99,
+                179,
+                8,
+                9,
+                510
+            ],
+            "previewAmenities": [
+                "Free parking",
+                "Kitchen"
+            ],
+            "cancelPolicy": "CANCEL_MODERATE",
+            "price": {
+                "rate": 58,
+                "currency": "EUR",
+                "total": 402,
+                "priceItems": [
+                    {
+                        "amount": 329
+                    },
+                    {
+                        "amount": 15
+                    },
+                    {
+                        "amount": 58
+                    }
+                ]
+            }
+        },
+        {
+            "id": "51600810",
+            "url": "https://www.airbnb.com/rooms/51600810",
+            "deeplink": "https://www.airbnb.com/rooms/51600810?check_in=2023-07-01&check_out=2023-07-08&adults=1&children=0&infants=0&pets=0",
+            "position": 29,
+            "name": "Apartment K\u2022\u2022\u2022 Heidelberg / Sandhausen",
+            "bathrooms": 1,
+            "bedrooms": 1,
+            "beds": 3,
+            "city": "Sandhausen",
+            "images": [
+                "https://a0.muscache.com/im/pictures/miso/Hosting-51600810/original/dd41a5b3-826f-4de5-8b3e-85e9afbf2160.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-51600810/original/2b5ec4d1-b440-4cbc-8e83-adba8411e93f.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-51600810/original/0f660f44-f584-494b-bdf1-41c756f8efc7.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-51600810/original/e0f91541-05b7-4755-8aa3-df8127ae5e8e.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-51600810/original/bef222d0-8d9b-46e9-9654-d9c7d0b5d2e9.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-51600810/original/7fa368ed-b76a-4a33-9cd2-92ec6e12a0c3.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-51600810/original/f54e0e2e-23a9-4838-af92-e320788b3a5c.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-51600810/original/51ac68f5-8929-460a-b6f4-0a5066104ab3.jpeg?im_w=720"
+            ],
+            "hostThumbnail": "https://a0.muscache.com/im/pictures/user/f128907a-e61d-4e99-972c-aacccea081e2.jpg?aki_policy=profile_x_medium",
+            "isSuperhost": true,
+            "rareFind": false,
+            "lat": 49.34189,
+            "lng": 8.65889,
+            "persons": 3,
+            "reviewsCount": 32,
+            "rating": 4.72,
+            "type": "Entire condo",
+            "userId": 418019647,
+            "address": "Sandhausen, Baden-W\u00fcrttemberg, Germany",
+            "amenityIds": [
+                1,
+                129,
+                515,
+                4,
+                5,
+                70,
+                8,
+                73,
+                137,
+                12,
+                77,
+                79,
+                85,
+                86,
+                23,
+                663,
+                280,
+                90,
+                91,
+                93,
+                30,
+                94,
+                95,
+                671,
+                96,
+                98,
+                35,
+                100,
+                103,
+                40,
+                104,
+                107,
+                236,
+                45,
+                113,
+                625,
+                179,
+                308,
+                500,
+                251,
+                510
+            ],
+            "previewAmenities": [
+                "Wifi",
+                "Kitchen"
+            ],
+            "cancelPolicy": "CANCEL_BETTER_STRICT_WITH_GRACE_PERIOD",
+            "price": {
+                "rate": 72,
+                "currency": "EUR",
+                "total": 498,
+                "priceItems": [
+                    {
+                        "amount": 396
+                    },
+                    {
+                        "amount": 20
+                    },
+                    {
+                        "amount": 50
+                    },
+                    {
+                        "amount": 72
+                    }
+                ]
+            }
+        },
+        {
+            "id": "44474964",
+            "url": "https://www.airbnb.com/rooms/44474964",
+            "deeplink": "https://www.airbnb.com/rooms/44474964?check_in=2023-07-01&check_out=2023-07-08&adults=1&children=0&infants=0&pets=0",
+            "position": 30,
+            "name": "Gem\u00fctliche Altstadtwohnung",
+            "bathrooms": 1,
+            "bedrooms": 1,
+            "beds": 0,
+            "city": "Heidelberg",
+            "images": [
+                "https://a0.muscache.com/im/pictures/miso/Hosting-44474964/original/5e390432-486c-49ae-9525-fcbe21fea3c4.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-44474964/original/d4753ffb-16d5-4a84-a7ae-8ad553e9f03a.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-44474964/original/7bf7d86e-b68c-4902-9c2f-f2d5b09ada8c.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-44474964/original/0f77bf58-c546-4344-9ccb-6a70399e547a.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-44474964/original/952b1801-28f0-49f1-b4ee-b36c921a7b8b.jpeg?im_w=720"
+            ],
+            "hostThumbnail": "https://a0.muscache.com/im/pictures/user/b7842c48-4e80-4137-be64-be7c8a6b2545.jpg?aki_policy=profile_x_medium",
+            "isSuperhost": false,
+            "rareFind": false,
+            "lat": 49.40867,
+            "lng": 8.69437,
+            "persons": 2,
+            "reviewsCount": 0,
+            "type": "Entire rental unit",
+            "userId": 131031316,
+            "address": "Heidelberg, Baden-W\u00fcrttemberg, Germany",
+            "amenityIds": [
+                33,
+                129,
+                35,
+                8,
+                40,
+                45,
+                30
+            ],
+            "previewAmenities": [
+                "Kitchen"
+            ],
+            "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+            "price": {
+                "rate": 60,
+                "currency": "EUR",
+                "total": 420,
+                "priceItems": [
+                    {
+                        "amount": 353
+                    },
+                    {
+                        "amount": 7
+                    },
+                    {
+                        "amount": 60
+                    }
+                ]
+            }
+        },
+        {
+            "id": "51529248",
+            "url": "https://www.airbnb.com/rooms/51529248",
+            "deeplink": "https://www.airbnb.com/rooms/51529248?check_in=2023-07-01&check_out=2023-07-08&adults=1&children=0&infants=0&pets=0",
+            "position": 31,
+            "name": "Studio 05, for 2 with kitchenette and TV",
+            "bathrooms": 1,
+            "bedrooms": 0,
+            "beds": 2,
+            "city": "Sch\u00f6nau",
+            "images": [
+                "https://a0.muscache.com/im/pictures/4980e440-853b-4d2d-8294-38a6042b91b8.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/3e0e9c25-750c-4527-ae4c-ac13567b98c2.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/e6501a66-d952-4b7a-8b17-f6243270aaa5.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/a7b31bae-5195-434a-a9f9-913b816f1810.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/047faec2-46f5-457b-bd57-2def8b0eac3c.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/93c391b3-79ab-4b3b-807d-2c54a6e8054f.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/b013f26d-2df4-4589-b11d-28856ff9bfbd.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/35197c6e-b008-42bf-94b3-af7dac4541c7.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/30b90621-9b16-4ca2-a93a-5e2684d43aa4.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/7177efb7-162c-4079-9e90-ed3f999040a7.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/1d261678-c41a-4bf0-8705-4a925894f497.jpg?im_w=720"
+            ],
+            "hostThumbnail": "https://a0.muscache.com/im/pictures/user/432f678a-6549-46ed-a43d-d662659f21f4.jpg?aki_policy=profile_x_medium",
+            "isSuperhost": false,
+            "rareFind": false,
+            "lat": 49.43198,
+            "lng": 8.8109,
+            "persons": 2,
+            "reviewsCount": 26,
+            "rating": 4.27,
+            "type": "Entire rental unit",
+            "userId": 383798653,
+            "address": "Sch\u00f6nau, Baden-W\u00fcrttemberg, Germany",
+            "amenityIds": [
+                1,
+                129,
+                4,
+                8,
+                9,
+                73,
+                137,
+                12,
+                77,
+                80,
+                146,
+                83,
+                85,
+                86,
+                23,
+                663,
+                280,
+                89,
+                91,
+                219,
+                93,
+                30,
+                94,
+                671,
+                96,
+                34,
+                35,
+                99,
+                227,
+                37,
+                101,
+                39,
+                40,
+                42,
+                44,
+                236,
+                308,
+                57
+            ],
+            "previewAmenities": [
+                "Wifi",
+                "Free parking",
+                "Kitchen"
+            ],
+            "cancelPolicy": "CANCEL_FLEXIBLE",
+            "price": {
+                "rate": 31,
+                "currency": "EUR",
+                "total": 217,
+                "priceItems": [
+                    {
+                        "amount": 180
+                    },
+                    {
+                        "amount": 9
+                    },
+                    {
+                        "amount": 15
+                    },
+                    {
+                        "amount": 31
+                    }
+                ]
+            }
+        },
+        {
+            "id": "10681128",
+            "url": "https://www.airbnb.com/rooms/10681128",
+            "deeplink": "https://www.airbnb.com/rooms/10681128?check_in=2023-07-01&check_out=2023-07-08&adults=1&children=0&infants=0&pets=0",
+            "position": 32,
+            "name": "Maisonette to feel good  80 sqm",
+            "bathrooms": 1,
+            "bedrooms": 2,
+            "beds": 4,
+            "city": "Heidelberg",
+            "images": [
+                "https://a0.muscache.com/im/pictures/3a40ccd9-2247-4167-92ba-c434687185c5.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/38383274-49f0-49b9-9580-2112af4d0627.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/fde2a978-214e-47c7-80d4-6da52c744357.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/bdd30f2b-d1ad-4085-817c-1aba3f75fae6.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/8c3fb17d-ec70-4777-8923-1f38ac6a3a62.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/fee23cfc-5491-4630-9395-0e5b4027e2e0.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/21b98040-ed5d-4e10-9a3f-06764b0f587a.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/80bb4c14-5d0f-42e7-ba58-55e8dc46548d.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/e8c62afb-4d51-41cd-b183-c29b51f0f3c1.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/fe13dbaf-ed2e-4631-a0ab-521f27bebcf9.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/eb0daa6b-3f07-4b3d-9eae-2d406c9b90b0.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/16af11c9-14ac-408d-9491-8ec22121686a.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/3087d420-ac06-4610-97b5-06e87de2e02e.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/eb0305a3-0500-4dc1-a7c4-9fe60e562a20.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/04c3b1f9-3326-495f-ae50-b5a488d951fb.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/ae9749ef-cf75-47da-99a9-d5ec184fb8a9.jpg?im_w=720"
+            ],
+            "hostThumbnail": "https://a0.muscache.com/im/pictures/user/55c4e6a0-965b-49c6-93b8-b558b498b238.jpg?aki_policy=profile_x_medium",
+            "isSuperhost": false,
+            "rareFind": false,
+            "lat": 49.40464,
+            "lng": 8.635,
+            "persons": 4,
+            "reviewsCount": 19,
+            "rating": 4.84,
+            "type": "Entire loft",
+            "userId": 51204833,
+            "address": "Heidelberg, Baden-W\u00fcrttemberg, Germany",
+            "amenityIds": [
+                1,
+                2,
+                3,
+                4,
+                8,
+                9,
+                137,
+                10,
+                394,
+                23,
+                280,
+                665,
+                667,
+                28,
+                30,
+                31,
+                671,
+                672,
+                33,
+                34,
+                35,
+                37,
+                38,
+                39,
+                40,
+                44,
+                45,
+                46,
+                47,
+                51,
+                308,
+                54,
+                185,
+                73,
+                77,
+                79,
+                85,
+                86,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                99,
+                100,
+                101,
+                103,
+                104,
+                236,
+                625,
+                251
+            ],
+            "previewAmenities": [
+                "Wifi",
+                "Free parking",
+                "Kitchen",
+                "Self check-in"
+            ],
+            "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+            "price": {
+                "rate": 100,
+                "currency": "EUR",
+                "total": 695,
+                "priceItems": [
+                    {
+                        "amount": 525
+                    },
+                    {
+                        "amount": 70
+                    },
+                    {
+                        "amount": 100
+                    }
+                ]
+            }
+        },
+        {
+            "id": "8482244",
+            "url": "https://www.airbnb.com/rooms/8482244",
+            "deeplink": "https://www.airbnb.com/rooms/8482244?check_in=2023-07-01&check_out=2023-07-08&adults=1&children=0&infants=0&pets=0",
+            "position": 33,
+            "name": "Complete 1 bedroom apartment",
+            "bathrooms": 1,
+            "bedrooms": 1,
+            "beds": 1,
+            "city": "Sandhausen",
+            "images": [
+                "https://a0.muscache.com/im/pictures/8589ced5-25c7-4d5a-ba34-3d96c8c4b397.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/7e9a578e-44a7-4356-bb87-817dba61f157.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/b0cd44f0-095a-453a-a3f5-676e553188ef.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/fa7873a0-fd48-40f0-a3f1-f0c9bc400430.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/107834882/3ebe562e_original.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/107834897/2012710e_original.jpg?im_w=720"
+            ],
+            "hostThumbnail": "https://a0.muscache.com/im/pictures/user/ad7be25b-bf45-4c5a-9193-9f46f804e9a3.jpg?aki_policy=profile_x_medium",
+            "isSuperhost": false,
+            "rareFind": false,
+            "lat": 49.35003,
+            "lng": 8.65898,
+            "persons": 3,
+            "reviewsCount": 152,
+            "rating": 4.4,
+            "type": "Entire rental unit",
+            "userId": 44240024,
+            "address": "Sandhausen, Baden-W\u00fcrttemberg, Germany",
+            "amenityIds": [
+                64,
+                129,
+                34,
+                35,
+                4,
+                36,
+                71,
+                103,
+                8,
+                40,
+                104,
+                41,
+                43,
+                44,
+                45,
+                46,
+                47,
+                23,
+                91,
+                93,
+                30,
+                31
+            ],
+            "previewAmenities": [
+                "Wifi",
+                "Kitchen"
+            ],
+            "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+            "price": {
+                "rate": 32,
+                "currency": "EUR",
+                "total": 220,
+                "priceItems": [
+                    {
+                        "amount": 202
+                    },
+                    {
+                        "amount": 14
+                    },
+                    {
+                        "amount": 32
+                    }
+                ]
+            }
+        },
+        {
+            "id": "13822358",
+            "url": "https://www.airbnb.com/rooms/13822358",
+            "deeplink": "https://www.airbnb.com/rooms/13822358?check_in=2023-07-01&check_out=2023-07-08&adults=1&children=0&infants=0&pets=0",
+            "position": 34,
+            "name": "Cozy oriental room in the house for 2",
+            "bathrooms": 1,
+            "bedrooms": 1,
+            "beds": 1,
+            "city": "Leimen",
+            "images": [
+                "https://a0.muscache.com/im/pictures/9f23749d-2187-4efb-a3e1-643ae83b5de0.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/f1f7d8dc-d496-481a-a418-e83c962dd520.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/2242b8a8-f3fd-451f-9eeb-e8b0c62d18a4.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/3e621aa1-1a2d-47f4-abdf-acef0f8511d8.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/636b92c1-def1-488e-9d5d-a8ae3df728ff.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/14d11bcd-89ae-4c18-9489-037b895df540.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/d5d2a446-e8d1-47a4-ade4-8c6b9106db26.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/71204617-0d9f-435b-9364-e3eb8e088f2f.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/c981a9ad-a442-420c-ac65-1f9351839d32.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/a77fd14e-39a4-4da2-96bc-f614917728ab.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/e1faea87-5d99-4596-af6f-c3f2672ec6b9.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/98be64c8-f8e8-4ff0-841e-5c3f30d9d032.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/2a2ab837-b93f-45a3-bc0b-65dd4fc2ffb6.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/5a0c42b3-3ff8-4cc7-9c08-32e07668b24b.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/d26f43d1-9790-4a98-8867-8f02e951dbef.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/eb90f82d-99e3-448d-bdb3-c9f8488cf396.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/ce7f3477-3f41-462e-841d-6e075c87728e.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/825f6608-9e8d-4b33-af0c-b6c5e97baf6e.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/c01ac956-57f2-4b4e-a326-1e9982c354c5.jpg?im_w=720"
+            ],
+            "hostThumbnail": "https://a0.muscache.com/im/pictures/user/4ee18304-eaa3-4244-b959-1df85a3a08dc.jpg?aki_policy=profile_x_medium",
+            "isSuperhost": false,
+            "rareFind": false,
+            "lat": 49.36508,
+            "lng": 8.6563,
+            "persons": 2,
+            "reviewsCount": 159,
+            "rating": 4.76,
+            "type": "Private room in rental unit",
+            "userId": 81442451,
+            "address": "Leimen, Baden-W\u00fcrttemberg, Germany",
+            "amenityIds": [
+                1,
+                129,
+                2,
+                66,
+                3,
+                4,
+                5,
+                74,
+                11,
+                77,
+                23,
+                89,
+                90,
+                91,
+                28,
+                93,
+                30,
+                31,
+                35,
+                36,
+                101,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                50
+            ],
+            "previewAmenities": [
+                "Wifi"
+            ],
+            "cancelPolicy": "CANCEL_FLEXIBLE",
+            "price": {
+                "rate": 38,
+                "currency": "EUR",
+                "total": 263,
+                "priceItems": [
+                    {
+                        "amount": 245
+                    },
+                    {
+                        "amount": 32
+                    },
+                    {
+                        "amount": 12
+                    },
+                    {
+                        "amount": 38
+                    }
+                ]
+            }
+        },
+        {
+            "id": "700372954152524403",
+            "url": "https://www.airbnb.com/rooms/700372954152524403",
+            "deeplink": "https://www.airbnb.com/rooms/700372954152524403?check_in=2023-07-01&check_out=2023-07-08&adults=1&children=0&infants=0&pets=0",
+            "position": 35,
+            "name": "Little holiday happiness in the heart of Bad Sch\u00f6nborn",
+            "bathrooms": 1,
+            "bedrooms": 1,
+            "beds": 1,
+            "city": "Bad Sch\u00f6nborn",
+            "images": [
+                "https://a0.muscache.com/im/pictures/miso/Hosting-689532160874640918/original/e30c1c1f-2688-4736-aeed-7ef035856d81.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-689532160874640918/original/339c8908-6f56-49a2-bffc-e802fbefc8ac.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-689532160874640918/original/6bc39d66-5625-4970-9fb0-160a2949c446.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-689532160874640918/original/0ee441bc-5ae0-4cea-b289-a3ca5454a798.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-689532160874640918/original/39c7bd61-42a8-4337-b0fa-c6c6e99e73b6.jpeg?im_w=720"
+            ],
+            "hostThumbnail": "https://a0.muscache.com/im/pictures/user/a62dc92c-4097-4cc7-bdfc-25727a982aff.jpg?aki_policy=profile_x_medium",
+            "isSuperhost": false,
+            "rareFind": true,
+            "lat": 49.21841,
+            "lng": 8.67019,
+            "persons": 2,
+            "reviewsCount": 24,
+            "rating": 4.42,
+            "type": "Entire rental unit",
+            "userId": 474096995,
+            "address": "Bad Sch\u00f6nborn, Baden-W\u00fcrttemberg, Germany",
+            "amenityIds": [
+                1,
+                33,
+                34,
+                35,
+                101,
+                8,
+                40,
+                9,
+                42,
+                77,
+                47,
+                79,
+                179,
+                85,
+                30,
+                510,
+                671
+            ],
+            "previewAmenities": [
+                "Hosted by a business",
+                "Free parking",
+                "Kitchen"
+            ],
+            "cancelPolicy": "CANCEL_FLEXIBLE",
+            "price": {
+                "rate": 24,
+                "currency": "EUR",
+                "total": 167,
+                "priceItems": [
+                    {
+                        "amount": 126
+                    },
+                    {
+                        "amount": 17
+                    },
+                    {
+                        "amount": 24
+                    }
+                ]
+            }
+        },
+        {
+            "id": "9965045",
+            "url": "https://www.airbnb.com/rooms/9965045",
+            "deeplink": "https://www.airbnb.com/rooms/9965045?check_in=2023-07-01&check_out=2023-07-08&adults=1&children=0&infants=0&pets=0",
+            "position": 36,
+            "name": "Beautiful  very bright duplex apartment 80 sqm",
+            "bathrooms": 1,
+            "bedrooms": 2,
+            "beds": 4,
+            "city": "Eppelheim",
+            "images": [
+                "https://a0.muscache.com/im/pictures/3d8c693d-720a-4dda-98f1-bea9caa96a3b.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/242c8726-1039-4d5d-95dd-813b344f6e4e.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/3633c3b4-9de7-46a7-a6f0-749ce78c108a.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/402559bc-59bd-42f4-81cc-dd5ed374b1f0.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/d4dcc02f-abcf-4112-883f-c3a004a4043a.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/f3653dd4-130f-40a3-b134-86bfca3294e2.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/5a4f3e3c-b21b-46cf-8652-03af92a3193f.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/c4e013a1-562d-4b75-831e-ba8603fa1cb0.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/fcbcf7e8-444f-4110-914e-1b44749052e2.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/ad538c3f-1b3c-48b3-8e71-ed5000ff1ed3.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/d8ca1aa3-6923-46ed-bfee-bc95f5c47883.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/dbf99756-6420-4614-a829-979c4c88c1a1.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/d6da7f75-a1f4-482e-913d-93c09e7bd263.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/d4a4fdc5-4804-41e1-99b3-a0937975cf17.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/4e31612c-bf57-4003-aa92-92aa40d89800.jpg?im_w=720"
+            ],
+            "hostThumbnail": "https://a0.muscache.com/im/pictures/user/55c4e6a0-965b-49c6-93b8-b558b498b238.jpg?aki_policy=profile_x_medium",
+            "isSuperhost": false,
+            "rareFind": false,
+            "lat": 49.40127,
+            "lng": 8.63481,
+            "persons": 4,
+            "reviewsCount": 8,
+            "rating": 5,
+            "type": "Entire loft",
+            "userId": 51204833,
+            "address": "Eppelheim, Baden-W\u00fcrttemberg, Germany",
+            "amenityIds": [
+                1,
+                2,
+                4,
+                8,
+                137,
+                394,
+                331,
+                77,
+                18,
+                85,
+                86,
+                23,
+                280,
+                89,
+                90,
+                91,
+                667,
+                28,
+                92,
+                93,
+                30,
+                94,
+                31,
+                95,
+                671,
+                96,
+                672,
+                33,
+                34,
+                35,
+                99,
+                37,
+                38,
+                39,
+                40,
+                104,
+                44,
+                236,
+                45,
+                46,
+                625,
+                51,
+                308,
+                500,
+                54,
+                185,
+                251
+            ],
+            "previewAmenities": [
+                "Wifi",
+                "Kitchen",
+                "Self check-in"
+            ],
+            "cancelPolicy": "CANCEL_FLEXIBLE",
+            "price": {
+                "rate": 100,
+                "currency": "EUR",
+                "total": 695,
+                "priceItems": [
+                    {
+                        "amount": 525
+                    },
+                    {
+                        "amount": 70
+                    },
+                    {
+                        "amount": 100
+                    }
+                ]
+            }
+        },
+        {
+            "id": "44573811",
+            "url": "https://www.airbnb.com/rooms/44573811",
+            "deeplink": "https://www.airbnb.com/rooms/44573811?check_in=2023-07-01&check_out=2023-07-08&adults=1&children=0&infants=0&pets=0",
+            "position": 37,
+            "name": "Komplett-Appartement H3",
+            "bathrooms": 1,
+            "bedrooms": 0,
+            "beds": 1,
+            "city": "Heidelberg",
+            "images": [
+                "https://a0.muscache.com/im/pictures/0d8b6d47-ab9b-4db4-a5b8-9b6ef9f32e12.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/02b15674-cbd0-4231-8795-512219c46bea.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/8626b30c-2c57-4b55-a117-d05ad5badf4b.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/365ae02f-f980-46e9-83e5-50ab39889b16.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/f637f7fa-a621-4ddd-b279-cf2ae71355f0.jpg?im_w=720"
+            ],
+            "hostThumbnail": "https://a0.muscache.com/im/pictures/user/96b2d5ca-bdf3-4a13-bc1c-a4e89bfcf56f.jpg?aki_policy=profile_x_medium",
+            "isSuperhost": false,
+            "rareFind": false,
+            "lat": 49.38585,
+            "lng": 8.68133,
+            "persons": 2,
+            "reviewsCount": 0,
+            "type": "Entire rental unit",
+            "userId": 360719091,
+            "address": "Heidelberg, Baden-W\u00fcrttemberg, Germany",
+            "amenityIds": [
+                1,
+                33,
+                4,
+                39,
+                8,
+                42,
+                47
+            ],
+            "previewAmenities": [
+                "Wifi",
+                "Kitchen"
+            ],
+            "cancelPolicy": "CANCEL_STRICT_14_WITH_GRACE_PERIOD",
+            "price": {
+                "rate": 65,
+                "currency": "EUR",
+                "total": 453,
+                "priceItems": [
+                    {
+                        "amount": 364
+                    },
+                    {
+                        "amount": 24
+                    },
+                    {
+                        "amount": 65
+                    }
+                ]
+            }
+        },
+        {
+            "id": "898324461000270484",
+            "url": "https://www.airbnb.com/rooms/898324461000270484",
+            "deeplink": "https://www.airbnb.com/rooms/898324461000270484?check_in=2023-07-01&check_out=2023-07-08&adults=1&children=0&infants=0&pets=0",
+            "position": 38,
+            "name": "S\u00fc\u00dfe Einzimmerwohnung",
+            "bathrooms": 1,
+            "bedrooms": 1,
+            "beds": 1,
+            "city": "Heidelberg",
+            "images": [
+                "https://a0.muscache.com/im/pictures/miso/Hosting-898324461000270484/original/21ecd7cb-48f1-44a6-9369-ed229d88c027.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-898324461000270484/original/2074fe6f-c88b-46a2-a7d2-9aeb9168ee87.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-898324461000270484/original/7364a73d-ddb7-45f3-9d5e-7ec0839a63e1.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-898324461000270484/original/0e20e357-822c-419b-8767-451fe7c976cc.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-898324461000270484/original/b4443b18-3bab-4f24-9415-039246b8d29d.jpeg?im_w=720"
+            ],
+            "hostThumbnail": "https://a0.muscache.com/im/pictures/user/User-514823912/original/83eb86c0-db94-41d5-ab36-5e2c220274e9.jpeg?aki_policy=profile_x_medium",
+            "isSuperhost": false,
+            "rareFind": false,
+            "lat": 49.38303,
+            "lng": 8.6815,
+            "persons": 2,
+            "reviewsCount": 0,
+            "type": "Entire rental unit",
+            "userId": 514823912,
+            "address": "Heidelberg, Baden-W\u00fcrttemberg, Germany",
+            "amenityIds": [
+                33,
+                35,
+                4,
+                8
+            ],
+            "previewAmenities": [
+                "Wifi",
+                "Kitchen"
+            ],
+            "cancelPolicy": "CANCEL_FLEXIBLE",
+            "price": {
+                "rate": 46,
+                "currency": "EUR",
+                "total": 319,
+                "priceItems": [
+                    {
+                        "amount": 273
+                    },
+                    {
+                        "amount": 46
+                    }
+                ]
+            }
+        },
+        {
+            "id": "28511604",
+            "url": "https://www.airbnb.com/rooms/28511604",
+            "deeplink": "https://www.airbnb.com/rooms/28511604?check_in=2023-07-01&check_out=2023-07-08&adults=1&children=0&infants=0&pets=0",
+            "position": 39,
+            "name": "Heidelberg Travel&Go",
+            "bathrooms": 1,
+            "bedrooms": 1,
+            "beds": 2,
+            "city": "Heidelberg",
+            "images": [
+                "https://a0.muscache.com/im/pictures/d3d61ca8-2be5-4c07-80f8-666d08a7547c.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/527e50d2-3da5-46f3-a29b-7a7b5168b579.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/1608ca6c-8df2-4a71-8de0-b1d6473b13e5.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/6d86d8d4-a8a6-4625-a643-05acbf4760de.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/62351091-415a-4655-967c-2f5aeb19e4fd.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/47550de4-b24b-4876-8a1e-0520ba994e67.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/496ffd77-1ec0-45ee-a6c4-b1dfb291da41.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/97fe996e-2000-4241-9fda-1a0f62869a1e.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/21d19e62-bfbe-4d59-964c-0505b624cc72.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/fddde88c-4ca5-4066-b02f-d3f7290e2b3c.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/fae8fe50-8bff-41f3-909a-f110c60356ec.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/c8c9d624-fd5c-4471-89fc-06d18d7920db.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/7636f4a5-948b-435a-b737-52c0d94ab0b7.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/fec165cc-8980-4cb9-996f-97bd5e5a7d30.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/11eb6b34-fcd6-417a-a9f2-00798dab56cc.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/3188971f-0489-4b43-ae33-e918935f98c5.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/091dfbac-ff2c-4bce-93be-05a880248b93.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/6a32f038-5923-4fe1-bdbe-bd075c65b70d.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/e5d07e37-64dd-4970-99ad-41aed18c45c1.jpg?im_w=720"
+            ],
+            "hostThumbnail": "https://a0.muscache.com/im/pictures/user/d8485038-bdd9-473f-b8ab-aadc9b5fbee5.jpg?aki_policy=profile_x_medium",
+            "isSuperhost": false,
+            "rareFind": false,
+            "lat": 49.42941,
+            "lng": 8.68017,
+            "persons": 3,
+            "reviewsCount": 14,
+            "rating": 4.57,
+            "type": "Private room in rental unit",
+            "userId": 112733184,
+            "address": "Heidelberg, Baden-W\u00fcrttemberg, Germany",
+            "amenityIds": [
+                1,
+                129,
+                322,
+                4,
+                8,
+                10,
+                522,
+                77,
+                16,
+                145,
+                85,
+                86,
+                23,
+                663,
+                89,
+                665,
+                90,
+                91,
+                667,
+                93,
+                30,
+                94,
+                95,
+                287,
+                96,
+                33,
+                98,
+                35,
+                611,
+                37,
+                39,
+                103,
+                40,
+                42,
+                44,
+                236,
+                45,
+                46,
+                47,
+                500,
+                251,
+                315,
+                61
+            ],
+            "previewAmenities": [
+                "Wifi",
+                "Kitchen"
+            ],
+            "cancelPolicy": "CANCEL_FLEXIBLE",
+            "price": {
+                "rate": 60,
+                "currency": "EUR",
+                "total": 414,
+                "priceItems": [
+                    {
+                        "amount": 352
+                    },
+                    {
+                        "amount": 18
+                    },
+                    {
+                        "amount": 20
+                    },
+                    {
+                        "amount": 60
+                    }
+                ]
+            }
+        },
+        {
+            "id": "53496366",
+            "url": "https://www.airbnb.com/rooms/53496366",
+            "deeplink": "https://www.airbnb.com/rooms/53496366?check_in=2023-07-01&check_out=2023-07-08&adults=1&children=0&infants=0&pets=0",
+            "position": 40,
+            "name": "japandi f\u00fcr 2 | nahe Mannheim | Schwetzingen",
+            "bathrooms": 1,
+            "bedrooms": 1,
+            "beds": 1,
+            "city": "Br\u00fchl",
+            "images": [
+                "https://a0.muscache.com/im/pictures/miso/Hosting-53496366/original/b615377d-7612-44ab-9cc4-4acf4fb318b0.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-53496366/original/8dfd70d5-9e91-4876-88c2-e30f6f7977a8.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/f4f798c0-ec7a-4533-887f-ccae25558e18.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-53496366/original/a7594abf-b3cc-4f7a-bdc6-b6eb8093fa19.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-53496366/original/81e78bb0-a0fd-4abb-b334-c6affd0001de.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/3df72230-9479-4f04-a422-c1bdce119ea5.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-53496366/original/0d10eb14-ab09-42b4-b3a4-5e47fd0b1487.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-53496366/original/12561371-2e86-49d5-9172-270ebb28dbd7.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/0b8c3f36-bf2e-4586-8b00-024e304bc71d.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-53496366/original/a9f9dda6-68cc-4083-bf14-949dc017883f.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-53496366/original/b3946e43-e4eb-4f72-8bab-bcde226312b0.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-53496366/original/5c07ef24-dc41-450e-88b6-a8325b0d3120.jpeg?im_w=720",
+                "https://a0.muscache.com/im/pictures/047ded07-148f-4c63-bd35-d02379e7315d.jpg?im_w=720",
+                "https://a0.muscache.com/im/pictures/miso/Hosting-53496366/original/042d2244-d40b-44df-9498-b51504a9bebc.jpeg?im_w=720"
+            ],
+            "hostThumbnail": "https://a0.muscache.com/im/pictures/user/b247fad9-1b5f-4edc-bd76-8511ba12147f.jpg?aki_policy=profile_x_medium",
+            "isSuperhost": true,
+            "rareFind": false,
+            "lat": 49.39585,
+            "lng": 8.53661,
+            "persons": 3,
+            "reviewsCount": 56,
+            "rating": 4.86,
+            "type": "Entire rental unit",
+            "userId": 71593150,
+            "address": "Br\u00fchl, Baden-W\u00fcrttemberg, Germany",
+            "amenityIds": [
+                1,
+                129,
+                2,
+                4,
+                71,
+                8,
+                9,
+                73,
+                137,
+                201,
+                394,
+                77,
+                21,
+                85,
+                86,
+                23,
+                89,
+                665,
+                90,
+                91,
+                92,
+                93,
+                30,
+                94,
+                95,
+                415,
+                671,
+                96,
+                672,
+                33,
+                97,
+                98,
+                35,
+                40,
+                104,
+                44,
+                236,
+                45,
+                47,
+                625,
+                51,
+                308,
+                500,
+                54,
+                61
+            ],
+            "previewAmenities": [
+                "Hosted by a business",
+                "Wifi",
+                "Free parking",
+                "Kitchen"
+            ],
+            "cancelPolicy": "CANCEL_MODERATE",
+            "price": {
+                "rate": 74,
+                "currency": "EUR",
+                "total": 517,
+                "priceItems": [
+                    {
+                        "amount": 525
+                    },
+                    {
+                        "amount": 53
+                    },
+                    {
+                        "amount": 45
+                    }
+                ]
+            }
+        }
+    ]
+}
