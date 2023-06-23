@@ -3,11 +3,12 @@ import requests
 import json
 
 from apartment import AirBnbApartment 
+from core_functions import API_KEY
 
-AIRBNB_KEY = 'd1fcc221cemshb5d2a2b2ff532ebp1a7c08jsn3e6ed5eedbe0'
+
 AIRBNB_HOST = 'airbnb13.p.rapidapi.com '
 AIRBNB_HEADER = { 
-    "X-RapidAPI-Key": f"{AIRBNB_KEY}",
+    "X-RapidAPI-Key": f"{API_KEY}",
     "X-RapidAPI-Host": f"{AIRBNB_HOST}"
 }
 
