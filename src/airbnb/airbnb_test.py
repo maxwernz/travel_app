@@ -3,13 +3,13 @@ import requests
 import json
 
 from apartment import AirBnbApartment 
-from core_functions import API_KEY
+from core_functions import api_key
 
 
 AIRBNB_HOST = 'airbnb13.p.rapidapi.com '
 AIRBNB_HEADER = { 
-    "X-RapidAPI-Key": f"{API_KEY}",
-    "X-RapidAPI-Host": f"{AIRBNB_HOST}"
+    "X-RapidAPI-Key": api_key(),
+    "X-RapidAPI-Host": AIRBNB_HOST
 }
 
 AIRBNB_URL = 'https://airbnb13.p.rapidapi.com'

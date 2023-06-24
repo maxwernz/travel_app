@@ -2,8 +2,6 @@ from enum import Enum
 import pickle
 import pandas as pd
 
-API_KEY = 'd1fcc221cemshb5d2a2b2ff532ebp1a7c08jsn3e6ed5eedbe0'
-
 class APIClass(Enum):
 
     AIRBNB = 'airbnb'
@@ -17,6 +15,12 @@ API_REQUESTS = {
                         'requests': []
                     }
                 }
+
+def api_key():
+    """Get the api key from the api.key file"""
+
+    with open('./api.key', 'r') as file:
+        return file.read()
 
 
 def set_api_requests(api: APIClass, number_of_requests: int):
@@ -80,8 +84,4 @@ def get_api_requests_count(api: APIClass) -> int:
 def load_full_api_requests():
     """Load the api_reqeusts file and store it in a dictionary"""
 
-
-
-inc_api_requests(APIClass.AIRBNB)
-dec_api_requests(APIClass.AIRBNB)
-dec_api_requests
+api_key()
